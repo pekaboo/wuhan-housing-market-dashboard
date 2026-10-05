@@ -1,6 +1,6 @@
 {
-  "count": 365,
-  "generatedAt": "2026-10-04 12:49:15",
+  "count": 363,
+  "generatedAt": "2026-10-05 12:37:29",
   "projects": [
     {
       "date": "2026-10-01",
@@ -3267,24 +3267,6 @@
       "name": "旭辉千山凌云",
       "salePrice": 21000.0,
       "soldChartImg": "https://img.wufangtong.cn/ce12b5ec71a14472ae524b25f3d9d95a.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-08-28",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/27e929e963254c2ebb1a0b65ae16e683.png",
-      "id": 334501415100516,
-      "name": "光谷悦城2期",
-      "salePrice": 20500.0,
-      "soldChartImg": "https://img.wufangtong.cn/382408e70ce14323b06973cff8f30ffd.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-08-28",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/52691b55ee514fb8a692ea99a009553e.png",
-      "id": 334501415100492,
-      "name": "首创天阅一江源",
-      "salePrice": 25000.0,
-      "soldChartImg": "https://img.wufangtong.cn/aa5a3a917c1e4e809cf6e6dd1f33d992.png",
       "soldNum": 0
     }
   ]
