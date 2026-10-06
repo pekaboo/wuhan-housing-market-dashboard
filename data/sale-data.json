@@ -1,6 +1,6 @@
 {
-  "count": 363,
-  "generatedAt": "2026-10-05 12:37:29",
+  "count": 362,
+  "generatedAt": "2026-10-06 13:23:22",
   "projects": [
     {
       "date": "2026-10-01",
@@ -3258,15 +3258,6 @@
       "name": "泛海国际芸海园",
       "salePrice": 34833.0,
       "soldChartImg": "https://img.wufangtong.cn/b2087a1e116e4f8aa8aade12dc1e3ef6.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-08-29",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/e5a358d8e9a0478b8ce509177955bc8e.png",
-      "id": 329239308886090,
-      "name": "旭辉千山凌云",
-      "salePrice": 21000.0,
-      "soldChartImg": "https://img.wufangtong.cn/ce12b5ec71a14472ae524b25f3d9d95a.png",
       "soldNum": 0
     }
   ]
