@@ -1,6 +1,6 @@
 {
-  "count": 381,
-  "generatedAt": "2026-10-23 23:50:26",
+  "count": 380,
+  "generatedAt": "2026-10-24 00:15:02",
   "projects": [
     {
       "date": "2026-10-23",
@@ -3420,15 +3420,6 @@
       "name": "远洋长江樽",
       "salePrice": 42500.0,
       "soldChartImg": "https://img.wufangtong.cn/acaf40a32af84620829511e19c5341b1.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-16",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/311774aead1241c8b4093722dd9be937.png",
-      "id": 387165697531980,
-      "name": "保利锦上",
-      "salePrice": 17500.0,
-      "soldChartImg": "https://img.wufangtong.cn/118a34c1c6a04ae2b824158be788821e.png",
       "soldNum": 0
     }
   ]
