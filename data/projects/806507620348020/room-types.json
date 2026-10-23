@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15 11:40:05",
+  "generatedAt": "2026-10-23 17:19:31",
   "projectId": 806507620348020,
   "status": "complete",
   "types": [
     {
       "area": 105.0,
-      "availableRoomNum": 5,
+      "availableRoomNum": 1,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 5,
+          "availableRoomNum": 1,
           "buildId": 826957828391175,
           "buildName": "洪山区委党校西侧地块项目4 ",
           "buildShortName": "4#",
@@ -20,7 +20,7 @@
           "floorTotal": 26,
           "oldUnitName": "1",
           "roomTotal": 52,
-          "soldNum": 47,
+          "soldNum": 51,
           "unitId": 0,
           "unitName": "1"
         }
