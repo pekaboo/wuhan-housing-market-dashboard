@@ -1,6 +1,6 @@
 {
-  "count": 381,
-  "generatedAt": "2026-10-24 11:42:59",
+  "count": 373,
+  "generatedAt": "2026-10-25 11:40:56",
   "projects": [
     {
       "date": "2026-10-24",
@@ -115,7 +115,7 @@
       "douYinSoldChartImg": "https://img.wufangtong.cn/2782f194b53a456f83930c72758b0010.png",
       "id": 836987166359621,
       "name": "星科·缦庭",
-      "salePrice": 14500.0,
+      "salePrice": 17981.0,
       "soldChartImg": "https://img.wufangtong.cn/049cb20b160648c89a244cdb8ca8ffc6.png",
       "soldNum": 133
     },
@@ -3357,78 +3357,6 @@
       "name": "万科华生星耀大道",
       "salePrice": 9800.0,
       "soldChartImg": "https://img.wufangtong.cn/6b3aa0b4d77841b2804ea92ee00a1a66.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/cd3e7adbd2a44d9d86bc0e241030f8b8.png",
-      "id": 334503273414725,
-      "name": "佳阳翠湖里",
-      "salePrice": 9440.0,
-      "soldChartImg": "https://img.wufangtong.cn/565cd0a58b97423b8a4f8580055e62e0.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/6c4059d826f24e1392083773a165fe83.png",
-      "id": 334530051637343,
-      "name": "CBD楚世家",
-      "salePrice": 35000.0,
-      "soldChartImg": "https://img.wufangtong.cn/fb042a5b9de64654b87378a8bfbf79e1.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/67ce1ba86b4f4f119d8a2bd6c151e7e9.png",
-      "id": 334520223813703,
-      "name": "F水星城",
-      "salePrice": 11000.0,
-      "soldChartImg": "https://img.wufangtong.cn/77f3f158ce9949d488216cd0d775bd6f.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/4795766ef7624e628ed315a23956de1a.png",
-      "id": 334520358039642,
-      "name": "万科汉口传奇锦棠",
-      "salePrice": 21500.0,
-      "soldChartImg": "https://img.wufangtong.cn/53c2cf17461f42ac9491621587fec660.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/7f7b6c6713d74f48aac0e9183a45ef83.png",
-      "id": 334503227465807,
-      "name": "航城丽都",
-      "salePrice": 5800.0,
-      "soldChartImg": "https://img.wufangtong.cn/d965ea308c88479b88e42adbac329697.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/3aec3a9a96d447cc87d5845d73dc2388.png",
-      "id": 334503227465801,
-      "name": "德雅国际城",
-      "salePrice": 6400.0,
-      "soldChartImg": "https://img.wufangtong.cn/9d8da02a316242f8bac062fc210539d7.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/f41fb387d2b442b1a3ff436d57f81c32.png",
-      "id": 334503273410659,
-      "name": "康桥朗城",
-      "salePrice": 8900.0,
-      "soldChartImg": "https://img.wufangtong.cn/a7824c4636924f769fd7bbd82cebca56.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-17",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/f0dab99bdf4f4f8d9d71c1c851280874.png",
-      "id": 334503202562144,
-      "name": "远洋长江樽",
-      "salePrice": 42500.0,
-      "soldChartImg": "https://img.wufangtong.cn/acaf40a32af84620829511e19c5341b1.png",
       "soldNum": 0
     }
   ]
