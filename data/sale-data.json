@@ -1,6 +1,6 @@
 {
-  "count": 373,
-  "generatedAt": "2026-10-25 11:40:56",
+  "count": 372,
+  "generatedAt": "2026-10-26 11:44:03",
   "projects": [
     {
       "date": "2026-10-24",
@@ -358,7 +358,7 @@
       "douYinSoldChartImg": "https://img.wufangtong.cn/d587a666e42e4b2589385f69eed5ad2a.png",
       "id": 660352220004426,
       "name": "招商天青府",
-      "salePrice": 13200.0,
+      "salePrice": 14000.0,
       "soldChartImg": "https://img.wufangtong.cn/315904191d1644e5a8cd9f72ce8f875b.png",
       "soldNum": 40
     },
@@ -3348,15 +3348,6 @@
       "name": "汉水新城中法印象",
       "salePrice": 5212.0,
       "soldChartImg": "https://img.wufangtong.cn/2cf4dd16f4a94323bc0ffc044af35be2.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-09-18",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/cb81f4b3bb5c410fba73a297bdfa1bff.png",
-      "id": 334501106548844,
-      "name": "万科华生星耀大道",
-      "salePrice": 9800.0,
-      "soldChartImg": "https://img.wufangtong.cn/6b3aa0b4d77841b2804ea92ee00a1a66.png",
       "soldNum": 0
     }
   ]
