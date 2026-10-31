@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30 12:49:27",
+  "generatedAt": "2026-10-31 12:34:32",
   "projectId": 795364598689861,
   "status": "complete",
   "types": [
@@ -80,11 +80,11 @@
     },
     {
       "area": 97.0,
-      "availableRoomNum": 7,
+      "availableRoomNum": 6,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 3,
+          "availableRoomNum": 2,
           "buildId": 312481879474256,
           "buildName": "武汉经开23R2项目（二期）变更2",
           "buildShortName": "2#",
@@ -95,7 +95,7 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 31,
-          "soldNum": 28,
+          "soldNum": 29,
           "unitId": 0,
           "unitName": "1"
         },
@@ -126,11 +126,11 @@
     },
     {
       "area": 97.0,
-      "availableRoomNum": 15,
+      "availableRoomNum": 14,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 11,
+          "availableRoomNum": 10,
           "buildId": 312481879474254,
           "buildName": "武汉经开23R2项目（二期）变更5",
           "buildShortName": "5#",
@@ -141,7 +141,7 @@
           "floorTotal": 15,
           "oldUnitName": "1",
           "roomTotal": 28,
-          "soldNum": 17,
+          "soldNum": 18,
           "unitId": 0,
           "unitName": "1"
         },
