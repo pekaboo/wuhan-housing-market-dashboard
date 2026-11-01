@@ -1,10 +1,11 @@
 {
-  "batchSize": 0,
+  "batchSize": 1,
   "lastBatchProjectIds": [
     806507620348020,
-    795364598689861
+    795364598689861,
+    769927633629253
   ],
-  "lastRunAt": "2026-10-31 12:34:32",
-  "nextIndex": 96,
+  "lastRunAt": "2026-11-01 09:18:04",
+  "nextIndex": 97,
   "version": 1
 }
