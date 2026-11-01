@@ -70,7 +70,7 @@ h1 { margin: 0; font-size: clamp(19px, 2.4vw, 27px); line-height: 1.1; letter-sp
 .coverage-bar { height: 7px; overflow: hidden; border-radius: 999px; background: color-mix(in srgb, var(--ink) 10%, transparent); }
 .coverage-bar i { display: block; height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--brand), var(--ok)); }
 .wangqian-link { color: var(--brand-ink); font-size: 11px; font-weight: 800; text-decoration: none; white-space: nowrap; }
-.wangqian-link:hover { text-decoration: underline; }
+.wangqian-link:hover { text-decoration: underline; } .report-links { display: flex; gap: 12px; align-items: center; }
 .featured { margin: 6px 0 12px; padding: 11px; border: 1px solid color-mix(in srgb,var(--brand) 18%,var(--line)); border-radius: var(--radius-xl); background: color-mix(in srgb,var(--brand) 5%,var(--panel)); box-shadow: var(--shadow); }
 .featured-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 9px; }
 .featured-head p { margin: 0; color: var(--brand); font-size: 10px; font-weight: 850; letter-spacing: .12em; text-transform: uppercase; }
@@ -173,7 +173,7 @@ body::selection{background:color-mix(in srgb,var(--brand) 22%,transparent)}
     <h1>武汉楼盘销控情报台</h1>
     <p class="subtitle">每日 08:00 自动获取生产数据；一房一价增量由手动全量任务维护。</p>
   </div>
-  <div class="metadata"><span class="pill">城市 4201 · 武汉</span><span class="pill">列表更新 2026-11-01 09:35:43</span><span class="pill">明细更新 2026-11-01 09:35:42</span></div>
+  <div class="metadata"><span class="pill">城市 4201 · 武汉</span><span class="pill">列表更新 2026-11-01 09:45:56</span><span class="pill">明细更新 2026-11-01 09:45:52</span></div>
 </header>
 <section class="featured" id="featured-projects" aria-label="重点楼盘"><div class="featured-head"><div><p>Featured</p><h2>重点楼盘</h2></div><span>手动清单 · 每日自动补详情</span></div><div class="featured-grid" role="list" data-role="project-grid" data-region="featured"><article class="project" role="listitem" data-name="武汉城建白沙嘉序" data-search="id 806507620348020 name 武汉城建白沙嘉序 soldChartImg https://img.wufangtong.cn/a94ef24f92d744cd83fbf23813125cd9.png douYinSoldChartImg https://img.wufangtong.cn/71d85c1bc24f4b17bed309a66455b299.png salePrice 13800.0 soldNum 12 date 2026-10-28" data-sold="12" data-price="13800.0" data-date="2026-10-28">
       <div class="project-main">
@@ -261,7 +261,7 @@ body::selection{background:color-mix(in srgb,var(--brand) 22%,transparent)}
     <span>222/374 个楼盘已取到预售证与房号明细</span>
   </div>
   <div class="coverage-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="59" aria-label="一房一价覆盖率 59%"><i style="width:59%"></i></div>
-  <a class="wangqian-link" href="wangqian/">查看昨日网签</a>
+  <div class="report-links"><a class="wangqian-link" href="wangqian/">查看昨日网签</a><a class="wangqian-link" href="featured-daily-sales/">重点楼盘日报</a></div>
 </section>
 <section class="controls" aria-label="全部楼盘筛选与排序">
   <div class="control-inner">

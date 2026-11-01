@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark"><meta name="description" content="重点楼盘昨日成交，按楼盘、楼栋与房号追踪。">
+<title>重点楼盘昨日成交 · 武汉楼盘销控情报台</title>
+<style>
+:root{--featured-surface:#f5f5f7;--featured-panel:#fff;--featured-ink:#1d1d1f;--featured-muted:#6e6e73;--featured-line:#d2d2d7;--featured-brand:#0071e3;--featured-ink-strong:#004478;--featured-shadow:0 12px 34px #00000012}
+@media (prefers-color-scheme:dark){:root{--featured-surface:#090c10;--featured-panel:#151a21;--featured-ink:#f5f5f7;--featured-muted:#a1a6ad;--featured-line:#2a333d;--featured-brand:#6cb8f6;--featured-ink-strong:#a8d3f7;--featured-shadow:0 14px 38px #00000073}}
+*{box-sizing:border-box}body{margin:0;background:var(--featured-surface);color:var(--featured-ink);font:15px/1.58 -apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}.shell{max-width:1180px;margin:0 auto;padding:0 clamp(15px,3vw,36px) 70px}.breadcrumb{padding:25px 0 13px;color:var(--featured-muted);font-size:13px}.breadcrumb a{color:var(--featured-ink-strong);font-weight:760;text-decoration:none}.hero{display:flex;justify-content:space-between;gap:20px;align-items:end;padding:8px 0 23px;border-bottom:1px solid var(--featured-line)}.eyebrow{margin:0;color:var(--featured-brand);font-size:11px;font-weight:850;letter-spacing:.16em;text-transform:uppercase}h1{margin:7px 0 8px;font-size:clamp(28px,4.5vw,46px);letter-spacing:-.05em}.subtitle{margin:0;max-width:680px;color:var(--featured-muted)}.kpi{display:grid;gap:3px;min-width:150px;min-height:96px;padding:16px 18px;border:1px solid var(--featured-line);border-radius:18px;background:var(--featured-panel);box-shadow:var(--featured-shadow)}.kpi span{color:var(--featured-muted);font-size:12px}.kpi strong{font-size:31px;letter-spacing:-.04em}.error{margin:15px 0;padding:13px 16px;border-radius:16px;background:#b4231812;color:#b42318;font-weight:720}.project,.building,.history{margin-top:15px;border:1px solid var(--featured-line);border-radius:20px;background:var(--featured-panel);box-shadow:var(--featured-shadow);overflow:hidden}.project>header,.building>header{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:15px 17px;background:color-mix(in srgb,var(--featured-panel) 88%,var(--featured-surface))}.project h2,.building h3{margin:0;letter-spacing:-.03em}.project header p{margin:0;color:var(--featured-brand);font-size:10px;font-weight:850;letter-spacing:.14em;text-transform:uppercase}.project header strong,.building header span{color:var(--featured-ink-strong);font-size:15px;font-weight:820}.pill{display:inline-flex;margin-left:7px;padding:3px 8px;border-radius:999px;background:color-mix(in srgb,#b42318 10%,var(--featured-panel));color:#b42318;font-size:11px;font-weight:780}.building p{margin:0;padding:8px 17px 0;color:var(--featured-muted);font-size:12px}.table-wrap{overflow-x:auto;padding-bottom:8px}table{width:100%;min-width:720px;border-collapse:collapse;font-size:13px}th,td{padding:10px 13px;border-top:1px solid var(--featured-line);text-align:left;white-space:nowrap}thead th{color:var(--featured-muted);font-size:11px}.empty{display:grid;min-height:160px;place-items:center;color:var(--featured-muted)}.history h2{margin:0;padding:16px 17px;font-size:17px}:is(a):focus-visible{outline:3px solid var(--featured-brand);outline-offset:3px}@media (max-width:760px){.hero{align-items:start;flex-direction:column}.kpi{width:100%}}
+:root{--design-system:apple-commercial;--surface:#f5f5f7;--panel:#ffffff;--panel-soft:#f0f1f3;--ink:#1d1d1f;--muted:#6e6e73;--line:#d2d2d7;--line-strong:#a1a1a6;--brand:#0071e3;--brand-ink:#0066cc;--accent:#0071e3;--ok:#34c759;--focus:#0071e3;--shadow:0 1px 2px #0000000a,0 12px 34px #00000012;--shadow-hover:0 2px 6px #0000000d,0 20px 46px #00000018;--radius-sm:10px;--radius-md:14px;--radius-lg:18px;--radius-xl:24px;--ease-out:cubic-bezier(.22,.61,.36,1)}
+@media (prefers-color-scheme:dark){:root{--surface:#000000;--panel:#1d1d20;--panel-soft:#2c2c2e;--ink:#f5f5f7;--muted:#a1a1a6;--line:#38383a;--line-strong:#5a5a5e;--brand:#2997ff;--brand-ink:#64a8ff;--accent:#64d2ff;--focus:#64a8ff;--shadow:0 1px 2px #00000066,0 16px 40px #00000066;--shadow-hover:0 2px 8px #00000070,0 24px 56px #00000080}}
+body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display","Helvetica Neue","Inter","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body::selection{background:color-mix(in srgb,var(--brand) 22%,transparent)}
+:is(a,button,input,select,summary,[tabindex]):focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 58%,transparent);outline-offset:3px;border-radius:var(--radius-sm)}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
+</style></head>
+<body><div class="shell">
+<nav class="breadcrumb"><a href="../">全部楼盘</a><span>/</span><span>重点楼盘昨日成交</span></nav>
+<header class="hero"><div><p class="eyebrow">Featured Daily Sales</p><h1>重点楼盘昨日成交</h1>
+<p class="subtitle">按官方昨日网签明细统计，逐楼栋管理到单元、楼层与房号；数量同时与接口楼盘汇总值校验。</p></div>
+<section class="kpi" aria-label="重点楼盘昨日总成交"><div><span>2026-10-31 成交</span><strong>8</strong></div></section></header>
+
+<article class="project"><header><div><p>Featured Project</p><h2>武汉城建白沙嘉序</h2></div><div><strong>0 套</strong></div></header><section class="empty">昨日无成交</section></article><article class="project"><header><div><p>Featured Project</p><h2>新希望·长粼府</h2></div><div><strong>4 套</strong></div></header><article class="building">
+              <header><h3>武汉经开23R2项目（二期）变更1</h3><span>2 套</span></header>
+              <p>1#</p>
+              <div class="table-wrap"><table>
+                <thead><tr><th>单元</th><th>楼层</th><th>房号</th><th>面积</th><th>总价</th><th>单价</th></tr></thead>
+                <tbody><tr><td>1</td><td>25</td><td>2502</td><td>107.96 ㎡</td><td>1,424,208 元</td><td>13,192 元/㎡</td></tr><tr><td>1</td><td>13</td><td>1301</td><td>97.31 ㎡</td><td>1,171,807 元</td><td>12,042 元/㎡</td></tr></tbody>
+              </table></div>
+            </article><article class="building">
+              <header><h3>武汉经开23R2项目（二期）变更2</h3><span>1 套</span></header>
+              <p>2#</p>
+              <div class="table-wrap"><table>
+                <thead><tr><th>单元</th><th>楼层</th><th>房号</th><th>面积</th><th>总价</th><th>单价</th></tr></thead>
+                <tbody><tr><td>1</td><td>23</td><td>2302</td><td>97.22 ㎡</td><td>1,207,570 元</td><td>12,421 元/㎡</td></tr></tbody>
+              </table></div>
+            </article><article class="building">
+              <header><h3>武汉经开23R2项目（二期）变更5</h3><span>1 套</span></header>
+              <p>5#</p>
+              <div class="table-wrap"><table>
+                <thead><tr><th>单元</th><th>楼层</th><th>房号</th><th>面积</th><th>总价</th><th>单价</th></tr></thead>
+                <tbody><tr><td>1</td><td>7</td><td>701</td><td>96.81 ㎡</td><td>1,357,083 元</td><td>14,018 元/㎡</td></tr></tbody>
+              </table></div>
+            </article></article><article class="project"><header><div><p>Featured Project</p><h2>邦泰悦九章</h2></div><div><strong>4 套</strong></div></header><article class="building">
+              <header><h3>新建居住项目（陶家岭公交停保场地块）3</h3><span>1 套</span></header>
+              <p>3#</p>
+              <div class="table-wrap"><table>
+                <thead><tr><th>单元</th><th>楼层</th><th>房号</th><th>面积</th><th>总价</th><th>单价</th></tr></thead>
+                <tbody><tr><td>1</td><td>24</td><td>2402</td><td>138.06 ㎡</td><td>2,387,810 元</td><td>17,295 元/㎡</td></tr></tbody>
+              </table></div>
+            </article><article class="building">
+              <header><h3>新建居住项目（陶家岭公交停保场地块）5</h3><span>1 套</span></header>
+              <p>5#</p>
+              <div class="table-wrap"><table>
+                <thead><tr><th>单元</th><th>楼层</th><th>房号</th><th>面积</th><th>总价</th><th>单价</th></tr></thead>
+                <tbody><tr><td>1</td><td>17</td><td>1702</td><td>126.50 ㎡</td><td>2,281,312 元</td><td>18,034 元/㎡</td></tr></tbody>
+              </table></div>
+            </article><article class="building">
+              <header><h3>新建居住项目（陶家岭公交停保场地块）8</h3><span>2 套</span></header>
+              <p>8#</p>
+              <div class="table-wrap"><table>
+                <thead><tr><th>单元</th><th>楼层</th><th>房号</th><th>面积</th><th>总价</th><th>单价</th></tr></thead>
+                <tbody><tr><td>1</td><td>5</td><td>502</td><td>101.02 ㎡</td><td>1,592,748 元</td><td>15,767 元/㎡</td></tr><tr><td>1</td><td>13</td><td>1303</td><td>101.02 ㎡</td><td>1,665,901 元</td><td>16,491 元/㎡</td></tr></tbody>
+              </table></div>
+            </article></article>
+<section class="history"><h2>近 30 天汇总</h2><div class="table-wrap"><table>
+<thead><tr><th scope="col">日期</th><th scope="col">武汉城建白沙嘉序</th><th scope="col">新希望·长粼府</th><th scope="col">邦泰悦九章</th><th scope="col">合计</th></tr></thead><tbody><tr><th scope="row">2026-10-31</th><td>0</td><td>4</td><td>4</td><td>8</td></tr></tbody></table></div></section>
+</div></body></html>
