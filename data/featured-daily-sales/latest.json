@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-11-01 11:10:08",
+  "generatedAt": "2026-11-01 11:23:18",
   "message": null,
   "projects": [
     {
@@ -133,19 +133,19 @@
           "roomCount": 124,
           "rooms": [
             {
-              "area": 97.31,
-              "floor": "13",
-              "price": 12042.0,
-              "roomName": "1301",
-              "totalPrice": 1171807.02,
-              "unitName": "1"
-            },
-            {
               "area": 107.96,
               "floor": "25",
               "price": 13192.0,
               "roomName": "2502",
               "totalPrice": 1424208.32,
+              "unitName": "1"
+            },
+            {
+              "area": 97.31,
+              "floor": "13",
+              "price": 12042.0,
+              "roomName": "1301",
+              "totalPrice": 1171807.02,
               "unitName": "1"
             }
           ],
