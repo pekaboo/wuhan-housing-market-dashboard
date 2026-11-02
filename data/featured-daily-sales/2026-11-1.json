@@ -1,0 +1,853 @@
+{
+  "date": "2026-11-1",
+  "generatedAt": "2026-11-02 15:00:11",
+  "message": null,
+  "projects": [
+    {
+      "buildings": [
+        {
+          "averagePrice": null,
+          "buildName": "1号楼",
+          "buildType": null,
+          "currentAvailableCount": 1,
+          "currentSoldCount": 17,
+          "floorTotal": 10,
+          "officialBuildName": "1号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]247号"
+          ],
+          "roomCount": 18,
+          "rooms": [],
+          "shortBuildName": "1#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "5号楼",
+          "buildType": null,
+          "currentAvailableCount": 1,
+          "currentSoldCount": 33,
+          "floorTotal": 17,
+          "officialBuildName": "5号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]248号"
+          ],
+          "roomCount": 34,
+          "rooms": [],
+          "shortBuildName": "5#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "洪山区委党校西侧地块项目3",
+          "buildType": "小高层",
+          "currentAvailableCount": 1,
+          "currentSoldCount": 63,
+          "floorTotal": 17,
+          "officialBuildName": "洪山区委党校西侧地块项目3",
+          "presaleCertificates": [
+            "武房开预售[2026]218号"
+          ],
+          "roomCount": 64,
+          "rooms": [],
+          "shortBuildName": "3#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "洪山区委党校西侧地块项目4 ",
+          "buildType": "高层",
+          "currentAvailableCount": 2,
+          "currentSoldCount": 133,
+          "floorTotal": 26,
+          "officialBuildName": "洪山区委党校西侧地块项目4 ",
+          "presaleCertificates": [
+            "武房开预售[2026]219号"
+          ],
+          "roomCount": 135,
+          "rooms": [],
+          "shortBuildName": "4#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        }
+      ],
+      "countMatchesSource": true,
+      "district": "洪山",
+      "inventory": {
+        "abnormalCount": 0,
+        "availableAveragePrice": 15286.521707935659,
+        "availableCount": 5,
+        "certificateCount": 4,
+        "completionTime": "2028-01-01",
+        "deliveryTime": "2028-03-25",
+        "roomCount": 251,
+        "roomTypeCount": 5,
+        "soldCount": 246
+      },
+      "location": {
+        "kind": "项目/地块线索",
+        "value": "洪山区委党校西侧地块项目"
+      },
+      "name": "武汉城建白沙嘉序",
+      "projectAveragePrice": 13800.0,
+      "projectDate": "2026-10-28",
+      "projectId": 806507620348020,
+      "projectSoldCount": 12,
+      "soldCount": 0,
+      "sourceSoldCount": null
+    },
+    {
+      "buildings": [
+        {
+          "averagePrice": 12321.233909895414,
+          "buildName": "武汉经开23R2项目（二期）变更1",
+          "buildType": null,
+          "currentAvailableCount": 70,
+          "currentSoldCount": 54,
+          "floorTotal": 32,
+          "officialBuildName": "1号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]243号"
+          ],
+          "roomCount": 124,
+          "rooms": [
+            {
+              "area": 97.31,
+              "floor": "17",
+              "price": 12353.0,
+              "roomName": "1701",
+              "totalPrice": 1202070.43,
+              "unitName": "1"
+            },
+            {
+              "area": 107.96,
+              "floor": "20",
+              "price": 13337.0,
+              "roomName": "2002",
+              "totalPrice": 1439862.52,
+              "unitName": "1"
+            },
+            {
+              "area": 97.31,
+              "floor": "4",
+              "price": 11176.0,
+              "roomName": "402",
+              "totalPrice": 1087536.56,
+              "unitName": "2"
+            },
+            {
+              "area": 97.31,
+              "floor": "16",
+              "price": 12276.0,
+              "roomName": "1602",
+              "totalPrice": 1194577.56,
+              "unitName": "2"
+            },
+            {
+              "area": 97.31,
+              "floor": "17",
+              "price": 12353.0,
+              "roomName": "1702",
+              "totalPrice": 1202070.43,
+              "unitName": "2"
+            }
+          ],
+          "shortBuildName": "1#",
+          "soldCount": 5,
+          "totalArea": 497.2,
+          "totalPrice": 6126117.5,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": 12760.0,
+          "buildName": "武汉经开23R2项目（二期）变更2",
+          "buildType": "高层",
+          "currentAvailableCount": 8,
+          "currentSoldCount": 116,
+          "floorTotal": 32,
+          "officialBuildName": "武汉经开23R2项目（二期）变更2",
+          "presaleCertificates": [
+            "武房开预售[2026]177号"
+          ],
+          "roomCount": 124,
+          "rooms": [
+            {
+              "area": 107.85,
+              "floor": "14",
+              "price": 12760.0,
+              "roomName": "1401",
+              "totalPrice": 1376166.0,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "2#",
+          "soldCount": 1,
+          "totalArea": 107.85,
+          "totalPrice": 1376166.0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": 13359.000000000002,
+          "buildName": "武汉经开23R2项目（二期）变更3",
+          "buildType": "高层",
+          "currentAvailableCount": 21,
+          "currentSoldCount": 39,
+          "floorTotal": 31,
+          "officialBuildName": "武汉经开23R2项目（二期）变更3",
+          "presaleCertificates": [
+            "武房开预售[2026]179号"
+          ],
+          "roomCount": 60,
+          "rooms": [
+            {
+              "area": 133.17,
+              "floor": "3",
+              "price": 13359.0,
+              "roomName": "301",
+              "totalPrice": 1779018.03,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "3#",
+          "soldCount": 1,
+          "totalArea": 133.17,
+          "totalPrice": 1779018.03,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": 12129.0,
+          "buildName": "武汉经开23R2项目（二期）变更5",
+          "buildType": "小高层",
+          "currentAvailableCount": 13,
+          "currentSoldCount": 71,
+          "floorTotal": 15,
+          "officialBuildName": "武汉经开23R2项目（二期）变更5",
+          "presaleCertificates": [
+            "武房开预售[2026]178号"
+          ],
+          "roomCount": 84,
+          "rooms": [
+            {
+              "area": 96.81,
+              "floor": "2",
+              "price": 12129.0,
+              "roomName": "201",
+              "totalPrice": 1174208.49,
+              "unitName": "2"
+            }
+          ],
+          "shortBuildName": "5#",
+          "soldCount": 1,
+          "totalArea": 96.81,
+          "totalPrice": 1174208.49,
+          "units": [
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ],
+      "countMatchesSource": true,
+      "district": "武汉经开",
+      "inventory": {
+        "abnormalCount": 0,
+        "availableAveragePrice": 13216.785602573917,
+        "availableCount": 112,
+        "certificateCount": 4,
+        "completionTime": "2028-05-31",
+        "deliveryTime": "2028-05-31",
+        "roomCount": 392,
+        "roomTypeCount": 4,
+        "soldCount": 280
+      },
+      "location": {
+        "kind": "项目/地块线索",
+        "value": "武汉经开23R2项目（二期）"
+      },
+      "name": "新希望·长粼府",
+      "projectAveragePrice": 12500.0,
+      "projectDate": "2026-11-01",
+      "projectId": 795364598689861,
+      "projectSoldCount": 66,
+      "soldCount": 8,
+      "sourceSoldCount": 8
+    },
+    {
+      "buildings": [
+        {
+          "averagePrice": null,
+          "buildName": "11号楼",
+          "buildType": null,
+          "currentAvailableCount": 50,
+          "currentSoldCount": 0,
+          "floorTotal": 25,
+          "officialBuildName": "11号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]255号"
+          ],
+          "roomCount": 50,
+          "rooms": [],
+          "shortBuildName": "11#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "6号楼",
+          "buildType": null,
+          "currentAvailableCount": 34,
+          "currentSoldCount": 0,
+          "floorTotal": 17,
+          "officialBuildName": "6号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]253号"
+          ],
+          "roomCount": 34,
+          "rooms": [],
+          "shortBuildName": "6#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "9号楼",
+          "buildType": null,
+          "currentAvailableCount": 100,
+          "currentSoldCount": 0,
+          "floorTotal": 25,
+          "officialBuildName": "9号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]254号"
+          ],
+          "roomCount": 100,
+          "rooms": [],
+          "shortBuildName": "9#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）1",
+          "buildType": "高层",
+          "currentAvailableCount": 34,
+          "currentSoldCount": 90,
+          "floorTotal": 32,
+          "officialBuildName": "新建居住项目（陶家岭公交停保场地块）1",
+          "presaleCertificates": [
+            "武房开预售[2026]201号"
+          ],
+          "roomCount": 124,
+          "rooms": [],
+          "shortBuildName": "1#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": 18085.06002274204,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）10",
+          "buildType": null,
+          "currentAvailableCount": 30,
+          "currentSoldCount": 20,
+          "floorTotal": 25,
+          "officialBuildName": "10号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]245号"
+          ],
+          "roomCount": 50,
+          "rooms": [
+            {
+              "area": 123.12,
+              "floor": "13",
+              "price": 18085.06,
+              "roomName": "1302",
+              "totalPrice": 2226632.59,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "10#",
+          "soldCount": 1,
+          "totalArea": 123.12,
+          "totalPrice": 2226632.59,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": 17920.450021729685,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）3",
+          "buildType": "高层",
+          "currentAvailableCount": 28,
+          "currentSoldCount": 68,
+          "floorTotal": 25,
+          "officialBuildName": "新建居住项目（陶家岭公交停保场地块）3",
+          "presaleCertificates": [
+            "武房开预售[2026]202号"
+          ],
+          "roomCount": 96,
+          "rooms": [
+            {
+              "area": 138.06,
+              "floor": "15",
+              "price": 17920.45,
+              "roomName": "1502",
+              "totalPrice": 2474097.33,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "3#",
+          "soldCount": 1,
+          "totalArea": 138.06,
+          "totalPrice": 2474097.33,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）5",
+          "buildType": "高层",
+          "currentAvailableCount": 33,
+          "currentSoldCount": 67,
+          "floorTotal": 25,
+          "officialBuildName": "新建居住项目（陶家岭公交停保场地块）5",
+          "presaleCertificates": [
+            "武房开预售[2026]203号"
+          ],
+          "roomCount": 100,
+          "rooms": [],
+          "shortBuildName": "5#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": 16957.468185937618,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）8",
+          "buildType": null,
+          "currentAvailableCount": 43,
+          "currentSoldCount": 85,
+          "floorTotal": 32,
+          "officialBuildName": "8号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]244号"
+          ],
+          "roomCount": 128,
+          "rooms": [
+            {
+              "area": 101.02,
+              "floor": "8",
+              "price": 16042.53,
+              "roomName": "802",
+              "totalPrice": 1620616.38,
+              "unitName": "1"
+            },
+            {
+              "area": 101.02,
+              "floor": "16",
+              "price": 16663.22,
+              "roomName": "1603",
+              "totalPrice": 1683318.48,
+              "unitName": "1"
+            },
+            {
+              "area": 113.29,
+              "floor": "17",
+              "price": 17619.53,
+              "roomName": "1704",
+              "totalPrice": 1996116.55,
+              "unitName": "1"
+            },
+            {
+              "area": 101.02,
+              "floor": "19",
+              "price": 16617.24,
+              "roomName": "1902",
+              "totalPrice": 1678673.58,
+              "unitName": "1"
+            },
+            {
+              "area": 113.29,
+              "floor": "19",
+              "price": 17677.01,
+              "roomName": "1904",
+              "totalPrice": 2002628.46,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "8#",
+          "soldCount": 5,
+          "totalArea": 529.64,
+          "totalPrice": 8981353.45,
+          "units": [
+            "1"
+          ]
+        }
+      ],
+      "countMatchesSource": true,
+      "district": null,
+      "inventory": {
+        "abnormalCount": 0,
+        "availableAveragePrice": 17068.988558870282,
+        "availableCount": 352,
+        "certificateCount": 8,
+        "completionTime": "2028-07-14",
+        "deliveryTime": "2028-08-14",
+        "roomCount": 682,
+        "roomTypeCount": 5,
+        "soldCount": 330
+      },
+      "location": {
+        "kind": "项目/地块线索",
+        "value": "新建居住项目（陶家岭公交停保场地块）"
+      },
+      "name": "邦泰悦九章",
+      "projectAveragePrice": 15100.0,
+      "projectDate": "2026-11-01",
+      "projectId": 814651876638817,
+      "projectSoldCount": 62,
+      "soldCount": 7,
+      "sourceSoldCount": 7
+    },
+    {
+      "buildings": [
+        {
+          "averagePrice": null,
+          "buildName": "10号楼",
+          "buildType": null,
+          "currentAvailableCount": 9,
+          "currentSoldCount": 36,
+          "floorTotal": 15,
+          "officialBuildName": "10号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]237号"
+          ],
+          "roomCount": 45,
+          "rooms": [],
+          "shortBuildName": "10#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "2号楼",
+          "buildType": null,
+          "currentAvailableCount": 4,
+          "currentSoldCount": 146,
+          "floorTotal": 26,
+          "officialBuildName": "2号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]090号"
+          ],
+          "roomCount": 150,
+          "rooms": [],
+          "shortBuildName": "2#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "3号楼",
+          "buildType": null,
+          "currentAvailableCount": 8,
+          "currentSoldCount": 46,
+          "floorTotal": 17,
+          "officialBuildName": "3号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]090号"
+          ],
+          "roomCount": 54,
+          "rooms": [],
+          "shortBuildName": "3#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "6号楼",
+          "buildType": null,
+          "currentAvailableCount": 26,
+          "currentSoldCount": 8,
+          "floorTotal": 17,
+          "officialBuildName": "6号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]237号"
+          ],
+          "roomCount": 34,
+          "rooms": [],
+          "shortBuildName": "6#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": 17850.750038777725,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）1",
+          "buildType": null,
+          "currentAvailableCount": 9,
+          "currentSoldCount": 141,
+          "floorTotal": 26,
+          "officialBuildName": "1号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]121号"
+          ],
+          "roomCount": 150,
+          "rooms": [
+            {
+              "area": 128.94,
+              "floor": "21",
+              "price": 17850.75,
+              "roomName": "2103",
+              "totalPrice": 2301675.71,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "1#",
+          "soldCount": 1,
+          "totalArea": 128.94,
+          "totalPrice": 2301675.71,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": 17287.92998653587,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）4",
+          "buildType": null,
+          "currentAvailableCount": 13,
+          "currentSoldCount": 86,
+          "floorTotal": 17,
+          "officialBuildName": "4号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]122号"
+          ],
+          "roomCount": 99,
+          "rooms": [
+            {
+              "area": 103.98,
+              "floor": "16",
+              "price": 17287.93,
+              "roomName": "1601",
+              "totalPrice": 1797598.96,
+              "unitName": "2"
+            }
+          ],
+          "shortBuildName": "4#",
+          "soldCount": 1,
+          "totalArea": 103.98,
+          "totalPrice": 1797598.96,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": 17767.329996027016,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
+          "buildType": null,
+          "currentAvailableCount": 6,
+          "currentSoldCount": 45,
+          "floorTotal": 17,
+          "officialBuildName": "5号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]303号"
+          ],
+          "roomCount": 51,
+          "rooms": [
+            {
+              "area": 125.85,
+              "floor": "12",
+              "price": 17767.33,
+              "roomName": "1203",
+              "totalPrice": 2236018.48,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "5#",
+          "soldCount": 1,
+          "totalArea": 125.85,
+          "totalPrice": 2236018.48,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
+          "buildType": "小高层",
+          "currentAvailableCount": 6,
+          "currentSoldCount": 46,
+          "floorTotal": 17,
+          "officialBuildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
+          "presaleCertificates": [
+            "武房开预售[2026]181号"
+          ],
+          "roomCount": 52,
+          "rooms": [],
+          "shortBuildName": "7#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）8",
+          "buildType": "小高层",
+          "currentAvailableCount": 30,
+          "currentSoldCount": 26,
+          "floorTotal": 17,
+          "officialBuildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）8",
+          "presaleCertificates": [
+            "武房开预售[2026]226号"
+          ],
+          "roomCount": 56,
+          "rooms": [],
+          "shortBuildName": "8#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
+          ]
+        },
+        {
+          "averagePrice": 17258.059997164928,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）9",
+          "buildType": null,
+          "currentAvailableCount": 23,
+          "currentSoldCount": 7,
+          "floorTotal": 15,
+          "officialBuildName": "9号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]303号"
+          ],
+          "roomCount": 30,
+          "rooms": [
+            {
+              "area": 141.09,
+              "floor": "6",
+              "price": 17096.77,
+              "roomName": "602",
+              "totalPrice": 2412183.28,
+              "unitName": "1"
+            },
+            {
+              "area": 141.09,
+              "floor": "9",
+              "price": 17419.35,
+              "roomName": "902",
+              "totalPrice": 2457696.09,
+              "unitName": "1"
+            }
+          ],
+          "shortBuildName": "9#",
+          "soldCount": 2,
+          "totalArea": 282.18,
+          "totalPrice": 4869879.369999999,
+          "units": [
+            "1"
+          ]
+        }
+      ],
+      "countMatchesSource": true,
+      "district": null,
+      "inventory": {
+        "abnormalCount": 0,
+        "availableAveragePrice": 16997.60498756546,
+        "availableCount": 134,
+        "certificateCount": 7,
+        "completionTime": "2027-10-16",
+        "deliveryTime": "2028-01-13",
+        "roomCount": 721,
+        "roomTypeCount": 4,
+        "soldCount": 587
+      },
+      "location": {
+        "kind": "项目/地块线索",
+        "value": "新建居住、防护绿地项目（光霞村K6地块）（变更）"
+      },
+      "name": "保利·星奕",
+      "projectAveragePrice": 14000.0,
+      "projectDate": "2026-11-02",
+      "projectId": 781406555324501,
+      "projectSoldCount": 83,
+      "soldCount": 5,
+      "sourceSoldCount": 5
+    }
+  ],
+  "status": "ok",
+  "totalSold": 20,
+  "version": 1
+}
