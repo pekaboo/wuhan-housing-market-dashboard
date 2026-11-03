@@ -1,6 +1,6 @@
 {
   "date": "2026-11-1",
-  "generatedAt": "2026-11-02 15:00:11",
+  "generatedAt": "2026-11-03 13:45:03",
   "message": null,
   "projects": [
     {
@@ -123,8 +123,8 @@
           "averagePrice": 12321.233909895414,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildType": null,
-          "currentAvailableCount": 70,
-          "currentSoldCount": 54,
+          "currentAvailableCount": 68,
+          "currentSoldCount": 56,
           "floorTotal": 32,
           "officialBuildName": "1号楼",
           "presaleCertificates": [
@@ -280,14 +280,14 @@
       "district": "武汉经开",
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 13216.785602573917,
-        "availableCount": 112,
+        "availableAveragePrice": 13221.990312045587,
+        "availableCount": 110,
         "certificateCount": 4,
         "completionTime": "2028-05-31",
         "deliveryTime": "2028-05-31",
         "roomCount": 392,
         "roomTypeCount": 4,
-        "soldCount": 280
+        "soldCount": 282
       },
       "location": {
         "kind": "项目/地块线索",
@@ -295,9 +295,9 @@
       },
       "name": "新希望·长粼府",
       "projectAveragePrice": 12500.0,
-      "projectDate": "2026-11-01",
+      "projectDate": "2026-11-03",
       "projectId": 795364598689861,
-      "projectSoldCount": 66,
+      "projectSoldCount": 68,
       "soldCount": 8,
       "sourceSoldCount": 8
     },
@@ -349,8 +349,8 @@
           "averagePrice": null,
           "buildName": "9号楼",
           "buildType": null,
-          "currentAvailableCount": 100,
-          "currentSoldCount": 0,
+          "currentAvailableCount": 96,
+          "currentSoldCount": 4,
           "floorTotal": 25,
           "officialBuildName": "9号楼",
           "presaleCertificates": [
@@ -537,14 +537,14 @@
       "district": null,
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 17068.988558870282,
-        "availableCount": 352,
+        "availableAveragePrice": 17075.516631720147,
+        "availableCount": 348,
         "certificateCount": 8,
         "completionTime": "2028-07-14",
         "deliveryTime": "2028-08-14",
         "roomCount": 682,
         "roomTypeCount": 5,
-        "soldCount": 330
+        "soldCount": 334
       },
       "location": {
         "kind": "项目/地块线索",
@@ -552,9 +552,9 @@
       },
       "name": "邦泰悦九章",
       "projectAveragePrice": 15100.0,
-      "projectDate": "2026-11-01",
+      "projectDate": "2026-11-03",
       "projectId": 814651876638817,
-      "projectSoldCount": 62,
+      "projectSoldCount": 67,
       "soldCount": 7,
       "sourceSoldCount": 7
     },
@@ -650,8 +650,8 @@
           "averagePrice": 17850.750038777725,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）1",
           "buildType": null,
-          "currentAvailableCount": 9,
-          "currentSoldCount": 141,
+          "currentAvailableCount": 8,
+          "currentSoldCount": 142,
           "floorTotal": 26,
           "officialBuildName": "1号楼",
           "presaleCertificates": [
@@ -681,8 +681,8 @@
           "averagePrice": 17287.92998653587,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）4",
           "buildType": null,
-          "currentAvailableCount": 13,
-          "currentSoldCount": 86,
+          "currentAvailableCount": 12,
+          "currentSoldCount": 87,
           "floorTotal": 17,
           "officialBuildName": "4号楼",
           "presaleCertificates": [
@@ -825,14 +825,14 @@
       "district": null,
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 16997.60498756546,
-        "availableCount": 134,
+        "availableAveragePrice": 17010.091834029932,
+        "availableCount": 132,
         "certificateCount": 7,
         "completionTime": "2027-10-16",
         "deliveryTime": "2028-01-13",
         "roomCount": 721,
         "roomTypeCount": 4,
-        "soldCount": 587
+        "soldCount": 589
       },
       "location": {
         "kind": "项目/地块线索",
@@ -840,9 +840,9 @@
       },
       "name": "保利·星奕",
       "projectAveragePrice": 14000.0,
-      "projectDate": "2026-11-02",
+      "projectDate": "2026-11-03",
       "projectId": 781406555324501,
-      "projectSoldCount": 83,
+      "projectSoldCount": 84,
       "soldCount": 5,
       "sourceSoldCount": 5
     }
