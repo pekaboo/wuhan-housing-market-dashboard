@@ -1,14 +1,14 @@
 {
   "batchSize": 0,
-  "enrichmentUpdatedAt": "2026-11-03 13:45:02",
+  "enrichmentUpdatedAt": "2026-11-03 15:25:25",
   "lastBatchProjectIds": [
     806507620348020,
     795364598689861,
     814651876638817,
     781406555324501
   ],
-  "lastRunAt": "2026-11-03 13:45:03",
-  "listUpdatedAt": "2026-11-03 13:45:03",
+  "lastRunAt": "2026-11-03 15:25:27",
+  "listUpdatedAt": "2026-11-03 15:25:27",
   "nextIndex": 97,
   "version": 1
 }
