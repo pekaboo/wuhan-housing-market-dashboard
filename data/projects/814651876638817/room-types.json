@@ -1,12 +1,29 @@
 {
-  "generatedAt": "2026-11-07 14:43:58",
+  "generatedAt": "2026-11-08 12:58:46",
   "projectId": 814651876638817,
   "status": "complete",
   "types": [
     {
       "area": 139.0,
-      "availableRoomNum": 28,
+      "availableRoomNum": 77,
       "buildList": [
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 49,
+          "buildId": 820234721681479,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）11",
+          "buildShortName": "11#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 846335984234757,
+          "evidenceName": "武房开预售[2026]255号",
+          "floorTotal": 25,
+          "oldUnitName": "1",
+          "roomTotal": 49,
+          "soldNum": 0,
+          "unitId": 0,
+          "unitName": "1"
+        },
         {
           "abnormalRoomNum": 0,
           "availableRoomNum": 24,
@@ -97,8 +114,25 @@
     },
     {
       "area": 123.0,
-      "availableRoomNum": 16,
+      "availableRoomNum": 44,
       "buildList": [
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 28,
+          "buildId": 820234721681478,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）10",
+          "buildShortName": "10#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 845296798056709,
+          "evidenceName": "武房开预售[2026]245号",
+          "floorTotal": 25,
+          "oldUnitName": "1",
+          "roomTotal": 48,
+          "soldNum": 20,
+          "unitId": 0,
+          "unitName": "1"
+        },
         {
           "abnormalRoomNum": 0,
           "availableRoomNum": 8,
@@ -143,7 +177,7 @@
     },
     {
       "area": 114.0,
-      "availableRoomNum": 21,
+      "availableRoomNum": 82,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -161,6 +195,40 @@
           "soldNum": 41,
           "unitId": 0,
           "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 20,
+          "buildId": 820234721685575,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）8",
+          "buildShortName": "8#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 845296798068997,
+          "evidenceName": "武房开预售[2026]244号",
+          "floorTotal": 32,
+          "oldUnitName": "1",
+          "roomTotal": 64,
+          "soldNum": 44,
+          "unitId": 0,
+          "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 41,
+          "buildId": 820234721685576,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）9",
+          "buildShortName": "9#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 846335984247045,
+          "evidenceName": "武房开预售[2026]254号",
+          "floorTotal": 25,
+          "oldUnitName": "1",
+          "roomTotal": 50,
+          "soldNum": 9,
+          "unitId": 0,
+          "unitName": "1"
         }
       ],
       "effectImage": null,
@@ -172,7 +240,7 @@
     },
     {
       "area": 101.0,
-      "availableRoomNum": 13,
+      "availableRoomNum": 78,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -188,6 +256,40 @@
           "oldUnitName": "1",
           "roomTotal": 62,
           "soldNum": 49,
+          "unitId": 0,
+          "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 22,
+          "buildId": 820234721685575,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）8",
+          "buildShortName": "8#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 845296798068997,
+          "evidenceName": "武房开预售[2026]244号",
+          "floorTotal": 32,
+          "oldUnitName": "1",
+          "roomTotal": 62,
+          "soldNum": 40,
+          "unitId": 0,
+          "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 43,
+          "buildId": 820234721685576,
+          "buildName": "新建居住项目（陶家岭公交停保场地块）9",
+          "buildShortName": "9#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 846335984247045,
+          "evidenceName": "武房开预售[2026]254号",
+          "floorTotal": 25,
+          "oldUnitName": "1",
+          "roomTotal": 50,
+          "soldNum": 7,
           "unitId": 0,
           "unitName": "1"
         }

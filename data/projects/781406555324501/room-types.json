@@ -1,48 +1,15 @@
 {
-  "generatedAt": "2026-11-07 14:44:06",
+  "generatedAt": "2026-11-08 12:58:58",
   "projectId": 781406555324501,
   "status": "complete",
   "types": [
     {
       "area": 131.0,
-      "availableRoomNum": 0,
-      "buildList": [],
-      "effectImage": null,
-      "id": 806510224130118,
-      "img": "https://img.wufangtong.cn/e56323aff1c5464e80fdfcabbf7b3cdf.png",
-      "name": "1厨，131平米",
-      "roomLayout": "4室2厅2卫",
-      "sectionNum": 4
-    },
-    {
-      "area": 104.0,
-      "availableRoomNum": 0,
-      "buildList": [],
-      "effectImage": null,
-      "id": 812172631281755,
-      "img": "https://img.wufangtong.cn/f393812750d44769b5a9770018071c68.png",
-      "name": "1厨，104平米",
-      "roomLayout": "3室2厅2卫",
-      "sectionNum": 3
-    },
-    {
-      "area": 127.0,
-      "availableRoomNum": 0,
-      "buildList": [],
-      "effectImage": null,
-      "id": 812172631281756,
-      "img": "https://img.wufangtong.cn/d8cec587651e40728301892b64f12d96.png",
-      "name": "1厨，127平米",
-      "roomLayout": "4室2厅2卫",
-      "sectionNum": 4
-    },
-    {
-      "area": 143.0,
-      "availableRoomNum": 16,
+      "availableRoomNum": 3,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 3,
+          "availableRoomNum": 1,
           "buildId": 820501215252550,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
           "buildShortName": "7#",
@@ -53,10 +20,131 @@
           "floorTotal": 17,
           "oldUnitName": "2",
           "roomTotal": 16,
-          "soldNum": 13,
+          "soldNum": 15,
           "unitId": 0,
           "unitName": "2"
         },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 2,
+          "buildId": 820501215252550,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
+          "buildShortName": "7#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 820501203214405,
+          "evidenceName": "武房开预售[2026]181号",
+          "floorTotal": 17,
+          "oldUnitName": "1",
+          "roomTotal": 8,
+          "soldNum": 6,
+          "unitId": 0,
+          "unitName": "1"
+        }
+      ],
+      "effectImage": null,
+      "id": 806510224130118,
+      "img": "https://img.wufangtong.cn/e56323aff1c5464e80fdfcabbf7b3cdf.png",
+      "name": "1厨，131平米",
+      "roomLayout": "4室2厅2卫",
+      "sectionNum": 4
+    },
+    {
+      "area": 104.0,
+      "availableRoomNum": 1,
+      "buildList": [
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 0,
+          "buildId": 820501215248453,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）10",
+          "buildShortName": "10#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 842819166036229,
+          "evidenceName": "武房开预售[2026]237号",
+          "floorTotal": 15,
+          "oldUnitName": "1",
+          "roomTotal": 28,
+          "soldNum": 28,
+          "unitId": 0,
+          "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 1,
+          "buildId": 820501215248458,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
+          "buildShortName": "5#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 852440726036741,
+          "evidenceName": "武房开预售[2026]303号",
+          "floorTotal": 17,
+          "oldUnitName": "1",
+          "roomTotal": 32,
+          "soldNum": 31,
+          "unitId": 0,
+          "unitName": "1"
+        }
+      ],
+      "effectImage": null,
+      "id": 812172631281755,
+      "img": "https://img.wufangtong.cn/f393812750d44769b5a9770018071c68.png",
+      "name": "1厨，104平米",
+      "roomLayout": "3室2厅2卫",
+      "sectionNum": 3
+    },
+    {
+      "area": 127.0,
+      "availableRoomNum": 13,
+      "buildList": [
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 8,
+          "buildId": 820501215248453,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）10",
+          "buildShortName": "10#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 842819166036229,
+          "evidenceName": "武房开预售[2026]237号",
+          "floorTotal": 15,
+          "oldUnitName": "1",
+          "roomTotal": 14,
+          "soldNum": 6,
+          "unitId": 0,
+          "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 5,
+          "buildId": 820501215248458,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
+          "buildShortName": "5#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 852440726036741,
+          "evidenceName": "武房开预售[2026]303号",
+          "floorTotal": 17,
+          "oldUnitName": "1",
+          "roomTotal": 16,
+          "soldNum": 11,
+          "unitId": 0,
+          "unitName": "1"
+        }
+      ],
+      "effectImage": null,
+      "id": 812172631281756,
+      "img": "https://img.wufangtong.cn/d8cec587651e40728301892b64f12d96.png",
+      "name": "1厨，127平米",
+      "roomLayout": "4室2厅2卫",
+      "sectionNum": 4
+    },
+    {
+      "area": 143.0,
+      "availableRoomNum": 39,
+      "buildList": [
         {
           "abnormalRoomNum": 0,
           "availableRoomNum": 0,
@@ -73,6 +161,23 @@
           "soldNum": 8,
           "unitId": 0,
           "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 3,
+          "buildId": 820501215252550,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
+          "buildShortName": "7#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 820501203214405,
+          "evidenceName": "武房开预售[2026]181号",
+          "floorTotal": 17,
+          "oldUnitName": "2",
+          "roomTotal": 16,
+          "soldNum": 13,
+          "unitId": 0,
+          "unitName": "2"
         },
         {
           "abnormalRoomNum": 0,
@@ -107,6 +212,23 @@
           "soldNum": 7,
           "unitId": 0,
           "unitName": "2"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 23,
+          "buildId": 820501215252552,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）9",
+          "buildShortName": "9#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 852440726036741,
+          "evidenceName": "武房开预售[2026]303号",
+          "floorTotal": 15,
+          "oldUnitName": "1",
+          "roomTotal": 28,
+          "soldNum": 5,
+          "unitId": 0,
+          "unitName": "1"
         }
       ],
       "effectImage": null,
