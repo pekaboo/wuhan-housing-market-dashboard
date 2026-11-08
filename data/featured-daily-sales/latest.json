@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-6",
-  "generatedAt": "2026-11-08 12:58:59",
+  "date": "2026-11-7",
+  "generatedAt": "2026-11-08 14:51:08",
   "message": null,
   "projects": [
     {
@@ -208,7 +208,7 @@
           ]
         },
         {
-          "averagePrice": 12129.0,
+          "averagePrice": null,
           "buildName": "武汉经开23R2项目（二期）变更5",
           "buildType": "小高层",
           "currentAvailableCount": 12,
@@ -219,20 +219,11 @@
             "武房开预售[2026]178号"
           ],
           "roomCount": 84,
-          "rooms": [
-            {
-              "area": 96.64,
-              "floor": "2",
-              "price": 12129.0,
-              "roomName": "201",
-              "totalPrice": 1172146.56,
-              "unitName": "3"
-            }
-          ],
+          "rooms": [],
           "shortBuildName": "5#",
-          "soldCount": 1,
-          "totalArea": 96.64,
-          "totalPrice": 1172146.56,
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
           "units": [
             "1",
             "2",
@@ -262,8 +253,8 @@
       "projectDate": "2026-11-06",
       "projectId": 795364598689861,
       "projectSoldCount": 59,
-      "soldCount": 1,
-      "sourceSoldCount": 1
+      "soldCount": 0,
+      "sourceSoldCount": null
     },
     {
       "buildings": [
@@ -417,7 +408,7 @@
           ]
         },
         {
-          "averagePrice": 16504.938665389527,
+          "averagePrice": null,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildType": "高层",
           "currentAvailableCount": 84,
@@ -428,60 +419,11 @@
             "武房开预售[2026]254号"
           ],
           "roomCount": 100,
-          "rooms": [
-            {
-              "area": 100.34,
-              "floor": "6",
-              "price": 16000.0,
-              "roomName": "603",
-              "totalPrice": 1605440.0,
-              "unitName": "1"
-            },
-            {
-              "area": 100.34,
-              "floor": "7",
-              "price": 16116.27,
-              "roomName": "703",
-              "totalPrice": 1617106.53,
-              "unitName": "1"
-            },
-            {
-              "area": 112.52,
-              "floor": "10",
-              "price": 17174.41,
-              "roomName": "1001",
-              "totalPrice": 1932464.61,
-              "unitName": "1"
-            },
-            {
-              "area": 100.34,
-              "floor": "18",
-              "price": 16069.77,
-              "roomName": "1803",
-              "totalPrice": 1612440.72,
-              "unitName": "1"
-            },
-            {
-              "area": 100.34,
-              "floor": "20",
-              "price": 16593.02,
-              "roomName": "2002",
-              "totalPrice": 1664943.63,
-              "unitName": "1"
-            },
-            {
-              "area": 112.52,
-              "floor": "21",
-              "price": 16941.86,
-              "roomName": "2101",
-              "totalPrice": 1906298.09,
-              "unitName": "1"
-            }
-          ],
+          "rooms": [],
           "shortBuildName": "9#",
-          "soldCount": 6,
-          "totalArea": 626.4,
-          "totalPrice": 10338693.58,
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
           "units": [
             "1"
           ]
@@ -509,8 +451,8 @@
       "projectDate": "2026-11-06",
       "projectId": 814651876638817,
       "projectSoldCount": 60,
-      "soldCount": 6,
-      "sourceSoldCount": 6
+      "soldCount": 0,
+      "sourceSoldCount": null
     },
     {
       "buildings": [
@@ -758,6 +700,6 @@
     }
   ],
   "status": "ok",
-  "totalSold": 7,
+  "totalSold": 0,
   "version": 1
 }
