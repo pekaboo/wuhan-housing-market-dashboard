@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09 15:27:56",
+  "generatedAt": "2026-11-10 14:23:12",
   "projectId": 795364598689861,
   "status": "complete",
   "types": [
@@ -34,7 +34,7 @@
     },
     {
       "area": 107.0,
-      "availableRoomNum": 38,
+      "availableRoomNum": 36,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -55,7 +55,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 7,
+          "availableRoomNum": 5,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildShortName": "1#",
@@ -66,7 +66,7 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 31,
-          "soldNum": 24,
+          "soldNum": 26,
           "unitId": 0,
           "unitName": "1"
         },
@@ -114,7 +114,7 @@
     },
     {
       "area": 97.0,
-      "availableRoomNum": 37,
+      "availableRoomNum": 35,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -135,7 +135,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 16,
+          "availableRoomNum": 15,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildShortName": "1#",
@@ -146,13 +146,13 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 31,
-          "soldNum": 15,
+          "soldNum": 16,
           "unitId": 0,
           "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 2,
+          "availableRoomNum": 1,
           "buildId": 312481879474256,
           "buildName": "武汉经开23R2项目（二期）变更2",
           "buildShortName": "2#",
@@ -163,7 +163,7 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 31,
-          "soldNum": 29,
+          "soldNum": 30,
           "unitId": 0,
           "unitName": "1"
         },
@@ -194,11 +194,11 @@
     },
     {
       "area": 97.0,
-      "availableRoomNum": 108,
+      "availableRoomNum": 107,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 10,
+          "availableRoomNum": 9,
           "buildId": 312481879474254,
           "buildName": "武汉经开23R2项目（二期）变更5",
           "buildShortName": "5#",
@@ -209,7 +209,7 @@
           "floorTotal": 15,
           "oldUnitName": "1",
           "roomTotal": 28,
-          "soldNum": 18,
+          "soldNum": 19,
           "unitId": 0,
           "unitName": "1"
         },
