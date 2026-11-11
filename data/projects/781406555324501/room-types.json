@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10 15:55:04",
+  "generatedAt": "2026-11-11 13:09:25",
   "projectId": 781406555324501,
   "status": "complete",
   "types": [
@@ -7,23 +7,6 @@
       "area": 131.0,
       "availableRoomNum": 3,
       "buildList": [
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 2,
-          "buildId": 820501215252550,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "buildShortName": "7#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 820501203214405,
-          "evidenceName": "武房开预售[2026]181号",
-          "floorTotal": 17,
-          "oldUnitName": "1",
-          "roomTotal": 8,
-          "soldNum": 6,
-          "unitId": 0,
-          "unitName": "1"
-        },
         {
           "abnormalRoomNum": 0,
           "availableRoomNum": 1,
@@ -40,6 +23,23 @@
           "soldNum": 15,
           "unitId": 0,
           "unitName": "2"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 2,
+          "buildId": 820501215252550,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
+          "buildShortName": "7#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 820501203214405,
+          "evidenceName": "武房开预售[2026]181号",
+          "floorTotal": 17,
+          "oldUnitName": "1",
+          "roomTotal": 8,
+          "soldNum": 6,
+          "unitId": 0,
+          "unitName": "1"
         }
       ],
       "effectImage": null,
@@ -97,7 +97,7 @@
     },
     {
       "area": 127.0,
-      "availableRoomNum": 13,
+      "availableRoomNum": 12,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -118,7 +118,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 5,
+          "availableRoomNum": 4,
           "buildId": 820501215248458,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
           "buildShortName": "5#",
@@ -129,7 +129,7 @@
           "floorTotal": 17,
           "oldUnitName": "1",
           "roomTotal": 16,
-          "soldNum": 11,
+          "soldNum": 12,
           "unitId": 0,
           "unitName": "1"
         }
