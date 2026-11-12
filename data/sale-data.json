@@ -1,9 +1,684 @@
 {
-  "count": 392,
-  "enrichmentUpdatedAt": "2026-11-11 15:24:17",
-  "generatedAt": "2026-11-11 15:24:24",
-  "listUpdatedAt": "2026-11-11 15:24:24",
+  "count": 398,
+  "enrichmentUpdatedAt": "2026-11-12 14:14:11",
+  "generatedAt": "2026-11-12 14:14:12",
+  "listUpdatedAt": "2026-11-12 14:14:12",
   "projects": [
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/4926ea2bf97144a0bab791141f6e1485.png",
+      "id": 824560061063237,
+      "name": "城投·金沙境",
+      "salePrice": 17500.0,
+      "soldChartImg": "https://img.wufangtong.cn/9fe8254c8c384ddbbe2f124c1d4898d5.png",
+      "soldNum": 46
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/d6046b657f184226bf5943c42a98299d.png",
+      "id": 786049071812689,
+      "name": "光谷润璟",
+      "salePrice": 22342.0,
+      "soldChartImg": "https://img.wufangtong.cn/50bcc275d1414254b1d7a274b7e01d79.png",
+      "soldNum": 108
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/7201deb3469344f1be10cb2f532ec0ef.png",
+      "id": 861203098996805,
+      "name": "小米·光谷梦享家",
+      "salePrice": 11000.0,
+      "soldChartImg": "https://img.wufangtong.cn/09cc560485ff4ea6867f00d2f4ef469f.png",
+      "soldNum": 75
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/02d887b0ebe64c379c1d5f4bf4c2500a.png",
+      "id": 836987166359621,
+      "name": "星科·缦庭",
+      "salePrice": 16000.0,
+      "soldChartImg": "https://img.wufangtong.cn/30dd970ca43748a595f105d2a7559043.png",
+      "soldNum": 209
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/9fade208188540398bebf30ba0cd630e.png",
+      "id": 334503154655302,
+      "name": "武汉城建·中央云城",
+      "salePrice": 36000.0,
+      "soldChartImg": "https://img.wufangtong.cn/7589745262644a86900e174358c664d3.png",
+      "soldNum": 28
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/5ed627c503d74b8f9558f60d30d399a9.png",
+      "id": 585686524457038,
+      "name": "御江尚品·江玺",
+      "salePrice": 15500.0,
+      "soldChartImg": "https://img.wufangtong.cn/6ad6e4ab4d9b47b2838da3e6a5650603.png",
+      "soldNum": 27
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/553cca641b8144c5815d80ec2e849d69.png",
+      "id": 445105776463944,
+      "name": "长江新天地",
+      "salePrice": 27000.0,
+      "soldChartImg": "https://img.wufangtong.cn/2f8b58a3652a490caae75ddb27a8b85a.png",
+      "soldNum": 104
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/cffd412af74148a697ae5c96512c4713.png",
+      "id": 824911072207127,
+      "name": "湖北文旅·绿城·青雅书院",
+      "salePrice": 17000.0,
+      "soldChartImg": "https://img.wufangtong.cn/d58f2bb9bc2d4f2ba0f9198f5e346ab4.png",
+      "soldNum": 4
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/871aeb2200dc41068a4848d7112b1b25.png",
+      "id": 760858721439813,
+      "name": "招商·缦境揽阅",
+      "salePrice": 14500.0,
+      "soldChartImg": "https://img.wufangtong.cn/bc5d26f1fd844f7d90cf3477ac0d73e9.png",
+      "soldNum": 29
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/0d069afe944744a2981fc47d32f1a68c.png",
+      "id": 663990244053061,
+      "name": "伟星·星宸玖序",
+      "salePrice": 18000.0,
+      "soldChartImg": "https://img.wufangtong.cn/79cad5bcdea14d6d9216609afe53bda0.png",
+      "soldNum": 113
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/b56e0e1dba9b47eb906828915834380f.png",
+      "id": 814651876638817,
+      "name": "邦泰悦九章",
+      "salePrice": 15100.0,
+      "soldChartImg": "https://img.wufangtong.cn/657b41a816bd419ab5b821dfc20ee946.png",
+      "soldNum": 71
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/c3e4281e7024452e8f45a09eaf57d003.png",
+      "id": 750719794376773,
+      "name": "璞拾光屿",
+      "salePrice": 18800.0,
+      "soldChartImg": "https://img.wufangtong.cn/03d4f8dcb163452a87bb0a5d2ccaa73b.png",
+      "soldNum": 56
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/0da7dd7fac8d45a3bfba5b604ce56319.png",
+      "id": 804207815327813,
+      "name": "绿城云墅",
+      "salePrice": 19756.0,
+      "soldChartImg": "https://img.wufangtong.cn/a74e021359c24d07be6c74a48a845ea7.png",
+      "soldNum": 52
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/0faeb8560ff44bba91dbec2139b9dc0b.png",
+      "id": 676265975529551,
+      "name": "武汉城建·承宁府",
+      "salePrice": 26000.0,
+      "soldChartImg": "https://img.wufangtong.cn/8896b24a383c47229994e3121262ff4f.png",
+      "soldNum": 39
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/4ff26c03f86e4e3bbb88db98e965a0d2.png",
+      "id": 807946197209157,
+      "name": "KIC创新天地·漫序",
+      "salePrice": 14500.0,
+      "soldChartImg": "https://img.wufangtong.cn/ed884a86e136415f8add6c0908d8a392.png",
+      "soldNum": 29
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/b4d2c66697be45a18e14435588363332.png",
+      "id": 686176815882324,
+      "name": "大华·锦绣年华",
+      "salePrice": 16500.0,
+      "soldChartImg": "https://img.wufangtong.cn/b360b976dbd64b04bf34dae90fd82e5e.png",
+      "soldNum": 50
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3d74b5881d9b45afa55709889f04ea02.png",
+      "id": 723709345103941,
+      "name": "城投·红树林",
+      "salePrice": 17500.0,
+      "soldChartImg": "https://img.wufangtong.cn/a6a77b25c49c4aa5923c7e23382a4085.png",
+      "soldNum": 15
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/73a3f08806ea40afbee3fcb15e4d40af.png",
+      "id": 602741454946383,
+      "name": "绿城·桂湖雲翠",
+      "salePrice": 23000.0,
+      "soldChartImg": "https://img.wufangtong.cn/8b18b250de6342ec9d0d35c01b603c25.png",
+      "soldNum": 20
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/d9b2d99657364a0f86a464a6cac8c0e8.png",
+      "id": 334501106552909,
+      "name": "国博城·清樾水岸",
+      "salePrice": 11700.0,
+      "soldChartImg": "https://img.wufangtong.cn/f07e773f552c496285246dd2297185fb.png",
+      "soldNum": 34
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/89b127f5ce004698b1fe5af358d97727.png",
+      "id": 329239308886105,
+      "name": "幸福时代·大家丨传宸",
+      "salePrice": 16000.0,
+      "soldChartImg": "https://img.wufangtong.cn/7857fe83ad0b4e57af41a11321692b53.png",
+      "soldNum": 11
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/17b74b287c174f599195bf4e11b45c7e.png",
+      "id": 763357430161535,
+      "name": "天创云和奕",
+      "salePrice": 16000.0,
+      "soldChartImg": "https://img.wufangtong.cn/fc070f0991fc4a8e9eacfbe15d0b0149.png",
+      "soldNum": 27
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/68072f5e7cbd49c198ed0e571464ee83.png",
+      "id": 777681188491333,
+      "name": "大家·玖宸",
+      "salePrice": 13000.0,
+      "soldChartImg": "https://img.wufangtong.cn/e7d31c6af74c4842beeee6f2c2473162.png",
+      "soldNum": 63
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/b901017b3034470fb268dfcbc953f306.png",
+      "id": 721728421519439,
+      "name": "建发·璟玥",
+      "salePrice": 34000.0,
+      "soldChartImg": "https://img.wufangtong.cn/85b683893b954ebeb8fc3b1e1ba91c2d.png",
+      "soldNum": 23
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3092e57c86324944ba4a158289855390.png",
+      "id": 588507312242760,
+      "name": "绿城光谷桂府",
+      "salePrice": 12500.0,
+      "soldChartImg": "https://img.wufangtong.cn/a948a10479c7406189b680196294870b.png",
+      "soldNum": 34
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3607cb9fd89645adac13983f48f1bc68.png",
+      "id": 334503298535534,
+      "name": "佳兆业浣溪璞园",
+      "salePrice": 9000.0,
+      "soldChartImg": "https://img.wufangtong.cn/af96ab462abc4ec6897072a6962d995c.png",
+      "soldNum": 99
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/fac4988d67ff40168db2b9fa633197a9.png",
+      "id": 334502236389467,
+      "name": "绿都中央公园二期",
+      "salePrice": 11800.0,
+      "soldChartImg": "https://img.wufangtong.cn/c22f8a2040254993a453dc1822e80966.png",
+      "soldNum": 18
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/60880b34b57248f3a7ed8e838d15bec1.png",
+      "id": 750595721310277,
+      "name": "招商·原颂",
+      "salePrice": 16700.0,
+      "soldChartImg": "https://img.wufangtong.cn/26e618315fac4fcda6a5bf6d0209bc83.png",
+      "soldNum": 38
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3c29f30ded8d4fd0bf1580b2d1f69667.png",
+      "id": 733961206968432,
+      "name": "招商·紫荆府",
+      "salePrice": 29000.0,
+      "soldChartImg": "https://img.wufangtong.cn/bf6f5e8f73774623969ae71b6d66b7e4.png",
+      "soldNum": 9
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/36d8a74c0f364d3a886766a19c065fcc.png",
+      "id": 660352220004426,
+      "name": "招商天青府",
+      "salePrice": 13200.0,
+      "soldChartImg": "https://img.wufangtong.cn/34675ba41a994db1b4919e17a45e7bb3.png",
+      "soldNum": 23
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3210517747a246f59d27a9d29046a2ea.png",
+      "id": 690425266311253,
+      "name": "硚口城建文澜序",
+      "salePrice": 14000.0,
+      "soldChartImg": "https://img.wufangtong.cn/5c3d8214614c4b80b27baea7461edeaa.png",
+      "soldNum": 57
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/dccb4c982d6b4b4a9896003b46253d5f.png",
+      "id": 708885269098565,
+      "name": "中信泰富滨江金融城·九玺",
+      "salePrice": 45000.0,
+      "soldChartImg": "https://img.wufangtong.cn/e52e42268848401f9a3c87fdf3d3c97a.png",
+      "soldNum": 6
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/d4bb0798543b43c685dd6ff2cc4e54c1.png",
+      "id": 334502133776459,
+      "name": "盘龙理想城",
+      "salePrice": 6980.0,
+      "soldChartImg": "https://img.wufangtong.cn/f758bf3bb19e46a99b17ec1d7a0cddef.png",
+      "soldNum": 2
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/8b43df97951e469a99e3e45943e393fa.png",
+      "id": 548952014192731,
+      "name": "中海·东湖玖章",
+      "salePrice": 31500.0,
+      "soldChartImg": "https://img.wufangtong.cn/8d82f3c50cd3436180ac5f4b04758084.png",
+      "soldNum": 20
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/a59812e5af374242841e86ab14602138.png",
+      "id": 334502133780555,
+      "name": "武汉蔡甸吾悦广场|世家",
+      "salePrice": 6500.0,
+      "soldChartImg": "https://img.wufangtong.cn/bad3e58b079240b286be0d9ab83c829e.png",
+      "soldNum": 7
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/4b8485d92f3143ef805b755ce05d7d09.png",
+      "id": 467025054097483,
+      "name": "武汉·三镇中心",
+      "salePrice": 24000.0,
+      "soldChartImg": "https://img.wufangtong.cn/110f06557d3a40678c0f7754ab925a5c.png",
+      "soldNum": 3
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/557e5f7a25b34437af0dc51f019527d1.png",
+      "id": 596293537906765,
+      "name": "绿城·桂语江南",
+      "salePrice": 22000.0,
+      "soldChartImg": "https://img.wufangtong.cn/489836a3ee1a41aa8bf0a5a9c6fc4d08.png",
+      "soldNum": 60
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/6c0a5653874a467394b591dd49de5e2a.png",
+      "id": 549209731977285,
+      "name": "万科锦绣湖山",
+      "salePrice": 32000.0,
+      "soldChartImg": "https://img.wufangtong.cn/bcd730a6b65e477a98ad56fd674198a1.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/4f031fbced0d423d9156f3854d518f0d.png",
+      "id": 334501106548827,
+      "name": "保利城七期云廷",
+      "salePrice": 13000.0,
+      "soldChartImg": "https://img.wufangtong.cn/da30eda2599a484eae837da7937d86e5.png",
+      "soldNum": 45
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/404a4ef06923402298ca28d8ce627a33.png",
+      "id": 334501415100502,
+      "name": "中铁阅湖郡",
+      "salePrice": 8500.0,
+      "soldChartImg": "https://img.wufangtong.cn/3b616224c0144a6dac242c260609ad7e.png",
+      "soldNum": 24
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/eb224eeac25c48498404f68e40dffe0e.png",
+      "id": 334503227465801,
+      "name": "德雅国际城",
+      "salePrice": 6400.0,
+      "soldChartImg": "https://img.wufangtong.cn/7f02922d52c64cc1bc2cb1356adc93d7.png",
+      "soldNum": 4
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/794d55a5012440b1bcbd89f20b844912.png",
+      "id": 334502236389457,
+      "name": "坤合云海城",
+      "salePrice": 7600.0,
+      "soldChartImg": "https://img.wufangtong.cn/47eb7c92a21d4c088dde35501c2992cc.png",
+      "soldNum": 5
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/32041852857a4619979564df1d554754.png",
+      "id": 334503202562127,
+      "name": "联投悦西湖",
+      "salePrice": 10000.0,
+      "soldChartImg": "https://img.wufangtong.cn/7248ce3174ec40a99327375e9b66e0dc.png",
+      "soldNum": 14
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/d9b62ff6f38f47d794798d740d2a0af4.png",
+      "id": 334503154655310,
+      "name": "城投联投誉江南",
+      "salePrice": 15000.0,
+      "soldChartImg": "https://img.wufangtong.cn/19abaca72c34448ba9a1704172f92b2b.png",
+      "soldNum": 12
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/fb07b5db3940499abee008cb02d314b4.png",
+      "id": 534007479291985,
+      "name": "御璟上城",
+      "salePrice": 8000.0,
+      "soldChartImg": "https://img.wufangtong.cn/376d6425e5124789a8bb907e46bcc60a.png",
+      "soldNum": 44
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/0022f25b2a9b4db997618d77f251ab53.png",
+      "id": 347273668268115,
+      "name": "恺德信达樾景臺",
+      "salePrice": 11500.0,
+      "soldChartImg": "https://img.wufangtong.cn/bb484a778a45418fa8dade4b5ab4a9e5.png",
+      "soldNum": 57
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/38d689841c87479788963e3f698140ac.png",
+      "id": 334530222997610,
+      "name": "菁英城",
+      "salePrice": 13000.0,
+      "soldChartImg": "https://img.wufangtong.cn/4d4f23b4f25444cf97e6f5a0421063ea.png",
+      "soldNum": 2
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/a2b4232254c0490380f0a54a1505f8a2.png",
+      "id": 334503298535510,
+      "name": "地铁时代云上城",
+      "salePrice": 8800.0,
+      "soldChartImg": "https://img.wufangtong.cn/966aa7f3462245938e0faaf6ee1b55f3.png",
+      "soldNum": 4
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/284e2104e71c42a480b0af124a1643a4.png",
+      "id": 334502133780565,
+      "name": "海天幸福天地和悦",
+      "salePrice": 8500.0,
+      "soldChartImg": "https://img.wufangtong.cn/28f76ae8622d44e9b24ea6a5481fe521.png",
+      "soldNum": 10
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/078497a90a6e410da63139bcc1ad7d17.png",
+      "id": 334501106548845,
+      "name": "万科华生公园大道",
+      "salePrice": 9000.0,
+      "soldChartImg": "https://img.wufangtong.cn/02220cc75727473b9e48e232361433a3.png",
+      "soldNum": 13
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/64ca92cd80a84e31a2b3e1611422c138.png",
+      "id": 825091332972613,
+      "name": "中建壹品·光谷元著",
+      "salePrice": 14500.0,
+      "soldChartImg": "https://img.wufangtong.cn/35289aa26d2b47bbbec4738a7488b2e3.png",
+      "soldNum": 34
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/5cae03403b8d4821aba17e985175a429.png",
+      "id": 329239308886096,
+      "name": "方岛金茂观棠",
+      "salePrice": 14500.0,
+      "soldChartImg": "https://img.wufangtong.cn/a9d63253394a41b0872d3fd82b66bfd4.png",
+      "soldNum": 2
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/5aca293b6f5744958fa42510be1528a2.png",
+      "id": 510948422303829,
+      "name": "越秀天悦文华",
+      "salePrice": 13999.0,
+      "soldChartImg": "https://img.wufangtong.cn/30a81d40062f49a5804b24ad02d2ecef.png",
+      "soldNum": 11
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/bcdf9a595261424db2fcf5fcdb6773cf.png",
+      "id": 334502133780577,
+      "name": "武汉城建·水岸",
+      "salePrice": 5600.0,
+      "soldChartImg": "https://img.wufangtong.cn/37abc96ee6d543ed8e3aa13996e0d086.png",
+      "soldNum": 217
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/576595c3a6c142fead6ba638b4069b94.png",
+      "id": 334501106552911,
+      "name": "新城桃李郡",
+      "salePrice": 7500.0,
+      "soldChartImg": "https://img.wufangtong.cn/66b51b68e40c47a094caabced5f6f8cb.png",
+      "soldNum": 30
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/faa27d7734cb4c89b3fa84da28895137.png",
+      "id": 334503154655335,
+      "name": "北辰蔚蓝城市",
+      "salePrice": 5800.0,
+      "soldChartImg": "https://img.wufangtong.cn/9b9d51b0dd8546f2b6a9774f604b1524.png",
+      "soldNum": 10
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/5a5aeb9517ee4422a89a94fd88fb4b56.png",
+      "id": 795364598689861,
+      "name": "新希望·长粼府",
+      "salePrice": 13000.0,
+      "soldChartImg": "https://img.wufangtong.cn/0172b4eb69c44463a6d4c929a6930559.png",
+      "soldNum": 52
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/f790d334c9f946919891abbc2adbd8fd.png",
+      "id": 334502236389472,
+      "name": "弘阳天玺尚院",
+      "salePrice": 15308.0,
+      "soldChartImg": "https://img.wufangtong.cn/ad95abc04f6f4253b0e5f97fe5f8db14.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/1f8f84bf6493439989f9778814613c43.png",
+      "id": 344782785065029,
+      "name": "金地悦海湾",
+      "salePrice": 9700.0,
+      "soldChartImg": "https://img.wufangtong.cn/1d8b7fbfe29b40c7bb7d1a53d3f47f1f.png",
+      "soldNum": 3
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/5bed5a97ab2a4940a16fc4e995067f2d.png",
+      "id": 334502236393543,
+      "name": "越秀汉阳星汇云锦",
+      "salePrice": 23000.0,
+      "soldChartImg": "https://img.wufangtong.cn/406a058139004c38a76807e462e7a757.png",
+      "soldNum": 15
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/31edfb0f23ab40a387c0e985f491c052.png",
+      "id": 334501106548837,
+      "name": "龙湖揽境",
+      "salePrice": 13000.0,
+      "soldChartImg": "https://img.wufangtong.cn/9fa0f2038364411394173580a4561bbc.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/10ec7bed656948fdac674df87eb641ff.png",
+      "id": 334501415100504,
+      "name": "美的·云筑",
+      "salePrice": 9500.0,
+      "soldChartImg": "https://img.wufangtong.cn/000be9e236a54617bd6c9d04a37fa5e1.png",
+      "soldNum": 28
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/11771d7ae5d242cbaaad4eaae6f25ca5.png",
+      "id": 329239308890205,
+      "name": "美的君兰半岛",
+      "salePrice": 15000.0,
+      "soldChartImg": "https://img.wufangtong.cn/c73924e2aab14eacbbbcd373f1c60507.png",
+      "soldNum": 1
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/cd712cfc5b684df194be42160a5af5ea.png",
+      "id": 334502236389450,
+      "name": "卓越大江",
+      "salePrice": 19000.0,
+      "soldChartImg": "https://img.wufangtong.cn/6e915f5c2ad7417d907f06d0536a7342.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/adf27d6c817e4f95bbff2459ff25b9b4.png",
+      "id": 329239308890196,
+      "name": "保利庭瑞阅江台",
+      "salePrice": 11000.0,
+      "soldChartImg": "https://img.wufangtong.cn/c77fd9799d664a2cb199972a375b2ddc.png",
+      "soldNum": 30
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/c2148bb7e45b444494aed9a1a331b606.png",
+      "id": 334501106552915,
+      "name": "武汉城建天汇龙城",
+      "salePrice": 7500.0,
+      "soldChartImg": "https://img.wufangtong.cn/98ba8b3120844ccdac9e30c687c8f0ef.png",
+      "soldNum": 38
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3d4d6adff19442ee934ebf4ebeab2bbe.png",
+      "id": 334501415104583,
+      "name": "中海寰宇天下",
+      "salePrice": 19000.0,
+      "soldChartImg": "https://img.wufangtong.cn/957fad897b074e8db2dab5f42044c83b.png",
+      "soldNum": 16
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/92f425e232794642a5e8f6cbce58c9fb.png",
+      "id": 329239308890197,
+      "name": "中国铁建知语1901",
+      "salePrice": 4480.0,
+      "soldChartImg": "https://img.wufangtong.cn/8a959d71c5504782870c51782ef90527.png",
+      "soldNum": 11
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/b0d1e841ec7e4cd9b3a2e0c6c258e86d.png",
+      "id": 334502236389466,
+      "name": "德信时光之宸",
+      "salePrice": 8500.0,
+      "soldChartImg": "https://img.wufangtong.cn/63d0f5ef7ca94b60b738dcbe58474a2e.png",
+      "soldNum": 2
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/00f296c0b1544df2be16d4e1a19c198c.png",
+      "id": 334503250387039,
+      "name": "南德缦和美域",
+      "salePrice": 7900.0,
+      "soldChartImg": "https://img.wufangtong.cn/34085e12e82e4f1f8a676326f6d7ace4.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/52df849ed4d848748a37432426cd4ced.png",
+      "id": 334501415100528,
+      "name": "武汉卓越城",
+      "salePrice": 7000.0,
+      "soldChartImg": "https://img.wufangtong.cn/0deca4a2aee6404280f960f9d1bef873.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/9fd420af093f42cfab8ea984914a3bee.png",
+      "id": 334501415100491,
+      "name": "朗诗熙华府",
+      "salePrice": 18000.0,
+      "soldChartImg": "https://img.wufangtong.cn/2deb0ef3c21a42f0b5f80e7cf708ae7c.png",
+      "soldNum": 1
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/e81dd22a9da346f1955d5b90df6a494b.png",
+      "id": 334503360417868,
+      "name": "中冶39大街",
+      "salePrice": 22000.0,
+      "soldChartImg": "https://img.wufangtong.cn/dc3c47e644904cd79a697bc039b8dba1.png",
+      "soldNum": 0
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/3ff214d866a245eaa2f937f6c498f066.png",
+      "id": 334503202558026,
+      "name": "融创光谷壹号院",
+      "salePrice": 18500.0,
+      "soldChartImg": "https://img.wufangtong.cn/f7c43195f85b460c94451f9de5965f27.png",
+      "soldNum": 31
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/868a27be64154429a867f4f172f93418.png",
+      "id": 334501106548843,
+      "name": "万科金域光年",
+      "salePrice": 8500.0,
+      "soldChartImg": "https://img.wufangtong.cn/8b2648baf6d247d1a617267ab8892127.png",
+      "soldNum": -2
+    },
+    {
+      "date": "2026-11-12",
+      "douYinSoldChartImg": "https://img.wufangtong.cn/cecf4d20a5e94fb9998ab1d65a40e261.png",
+      "id": 329239308886087,
+      "name": "武汉城建·雲栖湖岸",
+      "salePrice": 13500.0,
+      "soldChartImg": "https://img.wufangtong.cn/35d562d974cc4d5c9b12c6a5ddff70f7.png",
+      "soldNum": 36
+    },
     {
       "date": "2026-11-11",
       "douYinSoldChartImg": "https://img.wufangtong.cn/7a34523030094f4c910a40e9515c2a66.png",
@@ -11,25 +686,7 @@
       "name": "联投东湖天悦",
       "salePrice": 30000.0,
       "soldChartImg": "https://img.wufangtong.cn/0f101e82c7a54f6fa376064bdad7fe26.png",
-      "soldNum": 91
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/a7535311d4ff452a9fc4f778ab690de5.png",
-      "id": 836987166359621,
-      "name": "星科·缦庭",
-      "salePrice": 16000.0,
-      "soldChartImg": "https://img.wufangtong.cn/d22a8ae3180b43818f8d8a0ac01be176.png",
-      "soldNum": 208
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/01941aea84e54e46b539b8c5c79f539f.png",
-      "id": 334503154655302,
-      "name": "武汉城建·中央云城",
-      "salePrice": 36000.0,
-      "soldChartImg": "https://img.wufangtong.cn/89c7fd118cc2469b967fdf9e85aa71cf.png",
-      "soldNum": 25
+      "soldNum": 86
     },
     {
       "date": "2026-11-11",
@@ -38,16 +695,7 @@
       "name": "招商湖屿天澜",
       "salePrice": 16000.0,
       "soldChartImg": "https://img.wufangtong.cn/af87235ab4ff407f8cfec605f688ed7d.png",
-      "soldNum": 84
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/5b5efb551f2b4be28d3dd881a6e36fd0.png",
-      "id": 760858721439813,
-      "name": "招商·缦境揽阅",
-      "salePrice": 14500.0,
-      "soldChartImg": "https://img.wufangtong.cn/e33d59707250456a9b9a33a7d22d425f.png",
-      "soldNum": 27
+      "soldNum": 80
     },
     {
       "date": "2026-11-11",
@@ -56,25 +704,7 @@
       "name": "保利·星奕",
       "salePrice": 15500.0,
       "soldChartImg": "https://img.wufangtong.cn/e524db1b3ae64c1c9c0ec169814276cb.png",
-      "soldNum": 69
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/d10b214e283745b887d9943b2915b5dd.png",
-      "id": 663990244053061,
-      "name": "伟星·星宸玖序",
-      "salePrice": 18000.0,
-      "soldChartImg": "https://img.wufangtong.cn/13b433ae6c0b485e9957fb0ee4de9c1a.png",
-      "soldNum": 115
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/1830bba3852b4a319c834b7d0f2192b6.png",
-      "id": 814651876638817,
-      "name": "邦泰悦九章",
-      "salePrice": 15100.0,
-      "soldChartImg": "https://img.wufangtong.cn/808f44c23d3d4124b6291963d04acf15.png",
-      "soldNum": 66
+      "soldNum": 67
     },
     {
       "date": "2026-11-11",
@@ -83,43 +713,7 @@
       "name": "洪投蓝城·桂悦宏章",
       "salePrice": 16000.0,
       "soldChartImg": "https://img.wufangtong.cn/2c993bb37639420aa711f63aca94d728.png",
-      "soldNum": 34
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/ec50739b0d374b5ba6b87ffbb75946d1.png",
-      "id": 804207815327813,
-      "name": "绿城云墅",
-      "salePrice": 19756.0,
-      "soldChartImg": "https://img.wufangtong.cn/d3eba18d973142d3a00ac02f7f5c9d7d.png",
-      "soldNum": 35
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/b49b290b4f31423daa0c5d75ce96923c.png",
-      "id": 763357430161535,
-      "name": "天创云和奕",
-      "salePrice": 16000.0,
-      "soldChartImg": "https://img.wufangtong.cn/c411d8df789c4a6eb35d9ea272f0951e.png",
-      "soldNum": 27
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/9541d954598540679a7af577fead7230.png",
-      "id": 676265975529551,
-      "name": "武汉城建·承宁府",
-      "salePrice": 26000.0,
-      "soldChartImg": "https://img.wufangtong.cn/2eb963c2fcb44bab82899f869f1c520f.png",
-      "soldNum": 42
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/4d81efe3e8ef497ebbd4e47dd5f4a841.png",
-      "id": 686176815882324,
-      "name": "大华·锦绣年华",
-      "salePrice": 16500.0,
-      "soldChartImg": "https://img.wufangtong.cn/bc315ff088ed45298eadde74c957b557.png",
-      "soldNum": 47
+      "soldNum": 33
     },
     {
       "date": "2026-11-11",
@@ -128,16 +722,7 @@
       "name": "长江投开万科东合映象",
       "salePrice": 15300.0,
       "soldChartImg": "https://img.wufangtong.cn/3f8065323a2a4189a2646a7ccaf3a432.png",
-      "soldNum": 15
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/d3648a7f71d143f7be8db9352e4cca40.png",
-      "id": 723709345103941,
-      "name": "城投·红树林",
-      "salePrice": 17500.0,
-      "soldChartImg": "https://img.wufangtong.cn/e9e5ed613c57423ea209b01b636b1035.png",
-      "soldNum": 15
+      "soldNum": 16
     },
     {
       "date": "2026-11-11",
@@ -146,34 +731,7 @@
       "name": "通派龙湖·江上云启",
       "salePrice": 25000.0,
       "soldChartImg": "https://img.wufangtong.cn/e64be20eb6864972b808e4928ae875b9.png",
-      "soldNum": 39
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/0de7dcf487d44fa0a8ca2f71b4d1cf04.png",
-      "id": 334501106552909,
-      "name": "国博城·清樾水岸",
-      "salePrice": 11700.0,
-      "soldChartImg": "https://img.wufangtong.cn/967da8237e62411c81e7f6060f4d949b.png",
-      "soldNum": 34
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/85483c82de2d41089fd1b7773349d514.png",
-      "id": 786049071812689,
-      "name": "光谷润璟",
-      "salePrice": 22342.0,
-      "soldChartImg": "https://img.wufangtong.cn/067763cfc9c24cfcb6a82de4200acedd.png",
-      "soldNum": 106
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/5a51fb0de8c24ecdb0a84d0ed62a1f96.png",
-      "id": 329239308886105,
-      "name": "幸福时代·大家丨传宸",
-      "salePrice": 16000.0,
-      "soldChartImg": "https://img.wufangtong.cn/7ac4de3bb8bc4e6f8a51a1708e29de65.png",
-      "soldNum": 11
+      "soldNum": 27
     },
     {
       "date": "2026-11-11",
@@ -182,7 +740,7 @@
       "name": "光谷地产·金地丨铂翠",
       "salePrice": 13129.0,
       "soldChartImg": "https://img.wufangtong.cn/bfc505409e9d4815aa629c6b1e882700.png",
-      "soldNum": 40
+      "soldNum": 39
     },
     {
       "date": "2026-11-11",
@@ -195,33 +753,6 @@
     },
     {
       "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/492746e617d0406cba5a9ce93dfae0a3.png",
-      "id": 777681188491333,
-      "name": "大家·玖宸",
-      "salePrice": 13000.0,
-      "soldChartImg": "https://img.wufangtong.cn/488226601338426481bae4619baff721.png",
-      "soldNum": 66
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/090bb14283f84187b868d58ee415dbd6.png",
-      "id": 334503298535534,
-      "name": "佳兆业浣溪璞园",
-      "salePrice": 9000.0,
-      "soldChartImg": "https://img.wufangtong.cn/8b62f2963db1451e968a15e6f5568aaf.png",
-      "soldNum": 93
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/bf3f05d147af4d0c91f967c03d8e7763.png",
-      "id": 750595721310277,
-      "name": "招商·原颂",
-      "salePrice": 16700.0,
-      "soldChartImg": "https://img.wufangtong.cn/e88a4ba090d547d8a20659bc81d3ce53.png",
-      "soldNum": 39
-    },
-    {
-      "date": "2026-11-11",
       "douYinSoldChartImg": "https://img.wufangtong.cn/ebd63e62639c4afab6b24d058d352c31.png",
       "id": 704747788468293,
       "name": "华发外滩玺",
@@ -231,39 +762,12 @@
     },
     {
       "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/11d1792be6054b939bf3479e63b376b8.png",
-      "id": 660352220004426,
-      "name": "招商天青府",
-      "salePrice": 13200.0,
-      "soldChartImg": "https://img.wufangtong.cn/b57b136abc0a410eb2a988598b2e7dd0.png",
-      "soldNum": 22
-    },
-    {
-      "date": "2026-11-11",
       "douYinSoldChartImg": "https://img.wufangtong.cn/e623116a551c441d9f6d47751decd61a.png",
       "id": 334501415100489,
       "name": "长江广电·光谷家",
       "salePrice": 13000.0,
       "soldChartImg": "https://img.wufangtong.cn/03b07174cc2c419e8a4ab0d0c2f40312.png",
-      "soldNum": 16
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/eab50552229a4ed8af5613fdccb9c86c.png",
-      "id": 548952014192731,
-      "name": "中海·东湖玖章",
-      "salePrice": 31500.0,
-      "soldChartImg": "https://img.wufangtong.cn/8721c3a3185a420b804e95c5108b3095.png",
-      "soldNum": 20
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/7e96f12d36bb4cf7807cab8356b9f042.png",
-      "id": 602741454946383,
-      "name": "绿城·桂湖雲翠",
-      "salePrice": 23000.0,
-      "soldChartImg": "https://img.wufangtong.cn/6a168e8822b94c488dbcc581c1aa4c9a.png",
-      "soldNum": 18
+      "soldNum": 15
     },
     {
       "date": "2026-11-11",
@@ -272,7 +776,7 @@
       "name": "安欣·幸福里",
       "salePrice": 16700.0,
       "soldChartImg": "https://img.wufangtong.cn/b8302d209c4541ff996ed6edbed9128a.png",
-      "soldNum": 7
+      "soldNum": 3
     },
     {
       "date": "2026-11-11",
@@ -290,16 +794,7 @@
       "name": "湖畔大观",
       "salePrice": 11000.0,
       "soldChartImg": "https://img.wufangtong.cn/fe152e3c5bd14b309cd482fa5a0158e1.png",
-      "soldNum": 32
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/d84f5e05716b4bf6b98e7668bf38ae83.png",
-      "id": 596293537906765,
-      "name": "绿城·桂语江南",
-      "salePrice": 22000.0,
-      "soldChartImg": "https://img.wufangtong.cn/b659f7601eda4f6889cf80d19c8e488e.png",
-      "soldNum": 56
+      "soldNum": 31
     },
     {
       "date": "2026-11-11",
@@ -335,25 +830,7 @@
       "name": "武汉城建天樾",
       "salePrice": 26000.0,
       "soldChartImg": "https://img.wufangtong.cn/ab81c8400f2d4403b0403050e2159bc3.png",
-      "soldNum": 22
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/cce24bb57101431686629e0d56e280c3.png",
-      "id": 334503154655310,
-      "name": "城投联投誉江南",
-      "salePrice": 15000.0,
-      "soldChartImg": "https://img.wufangtong.cn/a3ed0099a5754989a222b2541c806110.png",
-      "soldNum": 3
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/0c40e5978d254cbda3a8ed73b183e7f2.png",
-      "id": 534007479291985,
-      "name": "御璟上城",
-      "salePrice": 8000.0,
-      "soldChartImg": "https://img.wufangtong.cn/8be32d3c0bf54aff8fe16ab452bc0f73.png",
-      "soldNum": 43
+      "soldNum": 20
     },
     {
       "date": "2026-11-11",
@@ -362,7 +839,7 @@
       "name": "梧桐里",
       "salePrice": 21000.0,
       "soldChartImg": "https://img.wufangtong.cn/ac40a6ce34374a5eb432abbec18319c4.png",
-      "soldNum": 30
+      "soldNum": 31
     },
     {
       "date": "2026-11-11",
@@ -389,7 +866,7 @@
       "name": "香港置地·元庐",
       "salePrice": 18800.0,
       "soldChartImg": "https://img.wufangtong.cn/5bcb3a7b030a4aa4a0dfbee3c04b541f.png",
-      "soldNum": 17
+      "soldNum": 16
     },
     {
       "date": "2026-11-11",
@@ -438,21 +915,12 @@
     },
     {
       "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/4a5509a9c09a4ea68fd9f0e3d570d2b3.png",
-      "id": 334501415100502,
-      "name": "中铁阅湖郡",
-      "salePrice": 8500.0,
-      "soldChartImg": "https://img.wufangtong.cn/0baa725cf67745e08777b4cf3404138b.png",
-      "soldNum": 23
-    },
-    {
-      "date": "2026-11-11",
       "douYinSoldChartImg": "https://img.wufangtong.cn/a31ca592832449459124ccb1a8a498cd.png",
       "id": 487723660394565,
       "name": "平安璟园",
       "salePrice": 13500.0,
       "soldChartImg": "https://img.wufangtong.cn/bdb03d24682e4b7c93fa15231b443b98.png",
-      "soldNum": 4
+      "soldNum": 3
     },
     {
       "date": "2026-11-11",
@@ -498,24 +966,6 @@
       "salePrice": 5200.0,
       "soldChartImg": "https://img.wufangtong.cn/acefad1a367742f7860e6be208ee1c4d.png",
       "soldNum": 1
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/7b12bda71407426c9f0e5abaf3c65fa1.png",
-      "id": 334501415100504,
-      "name": "美的·云筑",
-      "salePrice": 9500.0,
-      "soldChartImg": "https://img.wufangtong.cn/3ded5dc915e249228b4aa7c7c1dc0c79.png",
-      "soldNum": 26
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/8069356d6e554364ae902a7750f4d020.png",
-      "id": 329239308890205,
-      "name": "美的君兰半岛",
-      "salePrice": 15000.0,
-      "soldChartImg": "https://img.wufangtong.cn/a77c6db13c6f4b9fbb3f17afb73580a3.png",
-      "soldNum": 0
     },
     {
       "date": "2026-11-11",
@@ -578,16 +1028,7 @@
       "name": "江樾云著",
       "salePrice": 7500.0,
       "soldChartImg": "https://img.wufangtong.cn/64ce36b547534200a7a62d7075ecd97c.png",
-      "soldNum": 11
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/dfca3758a6ed4f2c809b40f5fb75ae12.png",
-      "id": 334502133780577,
-      "name": "武汉城建·水岸",
-      "salePrice": 5600.0,
-      "soldChartImg": "https://img.wufangtong.cn/935f27c308aa4de7a63310b60242dff8.png",
-      "soldNum": 130
+      "soldNum": 10
     },
     {
       "date": "2026-11-11",
@@ -632,7 +1073,7 @@
       "name": "武汉城建仁恒西湖山居",
       "salePrice": 26987.0,
       "soldChartImg": "https://img.wufangtong.cn/a93d8fabe2a24e99ba3b9ac5ab220d8d.png",
-      "soldNum": 8
+      "soldNum": 7
     },
     {
       "date": "2026-11-11",
@@ -654,15 +1095,6 @@
     },
     {
       "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/b1fd96a39f864499bb1284269200cc1c.png",
-      "id": 334503202558026,
-      "name": "融创光谷壹号院",
-      "salePrice": 18500.0,
-      "soldChartImg": "https://img.wufangtong.cn/86fbffb1b0b6480886dcc270e3ee04c1.png",
-      "soldNum": 32
-    },
-    {
-      "date": "2026-11-11",
       "douYinSoldChartImg": "https://img.wufangtong.cn/1352fdb996784257908505c84d31cdd4.png",
       "id": 356580278653004,
       "name": "城投南山长投·领峯",
@@ -677,25 +1109,7 @@
       "name": "城发新天雅集",
       "salePrice": 12500.0,
       "soldChartImg": "https://img.wufangtong.cn/76175a26d684458dbbd54325eb062437.png",
-      "soldNum": 4
-    },
-    {
-      "date": "2026-11-11",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/ef2c0c40f8844a878f69b6cb34b91df7.png",
-      "id": 329239308886087,
-      "name": "武汉城建·雲栖湖岸",
-      "salePrice": 13500.0,
-      "soldChartImg": "https://img.wufangtong.cn/65572396887a484eb6ef17bc9943d13b.png",
-      "soldNum": 36
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/155fb64a080747aab21db4d4ddb5c9a9.png",
-      "id": 824560061063237,
-      "name": "城投·金沙境",
-      "salePrice": 17500.0,
-      "soldChartImg": "https://img.wufangtong.cn/fa79a32bc0bb47218ccd44a80d86a043.png",
-      "soldNum": 45
+      "soldNum": 5
     },
     {
       "date": "2026-11-10",
@@ -708,21 +1122,12 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/f1a3522467054849af35a57d18fe91c3.png",
-      "id": 861203098996805,
-      "name": "小米·光谷梦享家",
-      "salePrice": 11000.0,
-      "soldChartImg": "https://img.wufangtong.cn/2428dbb70b81441787f3165d7ca04f8f.png",
-      "soldNum": 76
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/d526958c574a458dbba7a24353aaff28.png",
       "id": 852150170538053,
       "name": "武汉城建·春风里",
       "salePrice": 9000.0,
       "soldChartImg": "https://img.wufangtong.cn/5f9fb6c0138a4285968838705bceecaf.png",
-      "soldNum": 49
+      "soldNum": 46
     },
     {
       "date": "2026-11-10",
@@ -731,7 +1136,7 @@
       "name": "保利·翡丽甲第",
       "salePrice": 45000.0,
       "soldChartImg": "https://img.wufangtong.cn/6defad8a715b4427b2c9e75a48682b19.png",
-      "soldNum": 53
+      "soldNum": 44
     },
     {
       "date": "2026-11-10",
@@ -740,16 +1145,7 @@
       "name": "招商长江序",
       "salePrice": 30000.0,
       "soldChartImg": "https://img.wufangtong.cn/ce92c8eb3a16460f83289776e9e18459.png",
-      "soldNum": 67
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/376d71f282b84528985b0fd7020ccd3e.png",
-      "id": 585686524457038,
-      "name": "御江尚品·江玺",
-      "salePrice": 15500.0,
-      "soldChartImg": "https://img.wufangtong.cn/b91086fd31e84693a935902c08154bc8.png",
-      "soldNum": 28
+      "soldNum": 63
     },
     {
       "date": "2026-11-10",
@@ -762,30 +1158,12 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/ae682a57b84d42ba9207b24196ba5595.png",
-      "id": 445105776463944,
-      "name": "长江新天地",
-      "salePrice": 27000.0,
-      "soldChartImg": "https://img.wufangtong.cn/771cb923ef7e47068acc426aa736a942.png",
-      "soldNum": 103
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/59db41373b494bf4abb8742a71ba7ed4.png",
-      "id": 824911072207127,
-      "name": "湖北文旅·绿城·青雅书院",
-      "salePrice": 17000.0,
-      "soldChartImg": "https://img.wufangtong.cn/0f2f792cdd2f4a2eaf16fbed425ecaa2.png",
-      "soldNum": 2
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/41a185f8e58a41c0ab1b575f00e5fa84.png",
       "id": 817481484128348,
       "name": "地铁·三阳星曜",
       "salePrice": 23000.0,
       "soldChartImg": "https://img.wufangtong.cn/7e6ad56ad6384f5ba99e2f0a029dc8ce.png",
-      "soldNum": 9
+      "soldNum": 8
     },
     {
       "date": "2026-11-10",
@@ -794,25 +1172,7 @@
       "name": "保利琅誉",
       "salePrice": 19000.0,
       "soldChartImg": "https://img.wufangtong.cn/da86059a86764cb2ad8a7de019eb1fc3.png",
-      "soldNum": 11
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/96c524c5a63540eda466aad30c135966.png",
-      "id": 750719794376773,
-      "name": "璞拾光屿",
-      "salePrice": 18800.0,
-      "soldChartImg": "https://img.wufangtong.cn/d1b0735421ad4710b0a0bd89f712270d.png",
-      "soldNum": 57
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/0c9b026be42649bd8047ddef86dc8dcd.png",
-      "id": 807946197209157,
-      "name": "KIC创新天地·漫序",
-      "salePrice": 14500.0,
-      "soldChartImg": "https://img.wufangtong.cn/72f6737688f44d82990c4837c9771628.png",
-      "soldNum": 25
+      "soldNum": 10
     },
     {
       "date": "2026-11-10",
@@ -830,7 +1190,7 @@
       "name": "联投凤鸣星河",
       "salePrice": 14500.0,
       "soldChartImg": "https://img.wufangtong.cn/49ee2af1ff2a490fa85048961529e043.png",
-      "soldNum": 5
+      "soldNum": 2
     },
     {
       "date": "2026-11-10",
@@ -857,25 +1217,7 @@
       "name": "联投清能·曼雲天樾",
       "salePrice": 18600.0,
       "soldChartImg": "https://img.wufangtong.cn/e89343ab4d23414bb566a35ee006aeb1.png",
-      "soldNum": 19
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/fcc9998eb07b4f40b939de7f2cd3f858.png",
-      "id": 721728421519439,
-      "name": "建发·璟玥",
-      "salePrice": 34000.0,
-      "soldChartImg": "https://img.wufangtong.cn/5b82fe9e8cd94a83ae58dddfb2776d21.png",
-      "soldNum": 23
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/d1b5811114f949f9a47a1a1c83331b77.png",
-      "id": 588507312242760,
-      "name": "绿城光谷桂府",
-      "salePrice": 12500.0,
-      "soldChartImg": "https://img.wufangtong.cn/3f7e1d85f3cd47bd8d99cef29feb40f2.png",
-      "soldNum": 31
+      "soldNum": 18
     },
     {
       "date": "2026-11-10",
@@ -924,15 +1266,6 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/f61312ceef3b40f49602d1deda6104b0.png",
-      "id": 334502236389467,
-      "name": "绿都中央公园二期",
-      "salePrice": 11800.0,
-      "soldChartImg": "https://img.wufangtong.cn/ca69884124cf4ea8a545b6374aff5128.png",
-      "soldNum": 15
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/4b40f5edef1246548b8720a2899870a0.png",
       "id": 689726184955981,
       "name": "汉阳·澍",
@@ -947,7 +1280,7 @@
       "name": "深业翠微谷",
       "salePrice": 14500.0,
       "soldChartImg": "https://img.wufangtong.cn/26fd64aa71f74f69836883813b4d359a.png",
-      "soldNum": 39
+      "soldNum": 33
     },
     {
       "date": "2026-11-10",
@@ -956,7 +1289,7 @@
       "name": "武汉城建·楚宝里",
       "salePrice": 27500.0,
       "soldChartImg": "https://img.wufangtong.cn/8be3748ba4dd4490bafdcdeeb44cb869.png",
-      "soldNum": 21
+      "soldNum": 20
     },
     {
       "date": "2026-11-10",
@@ -965,7 +1298,7 @@
       "name": "湖北科投｜万科·光谷锦上",
       "salePrice": 16000.0,
       "soldChartImg": "https://img.wufangtong.cn/f076bea4fe7f4fe398a7a755fa945067.png",
-      "soldNum": 22
+      "soldNum": 21
     },
     {
       "date": "2026-11-10",
@@ -974,16 +1307,7 @@
       "name": "光谷地产·珞喻首府",
       "salePrice": 16541.0,
       "soldChartImg": "https://img.wufangtong.cn/eea611de8d7e40ff80653240a1d6776d.png",
-      "soldNum": 10
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/49fdb30dc9304713b75177168b6d1008.png",
-      "id": 690425266311253,
-      "name": "硚口城建文澜序",
-      "salePrice": 14000.0,
-      "soldChartImg": "https://img.wufangtong.cn/8f27967f4ed8473497eeaf960f5032c3.png",
-      "soldNum": 60
+      "soldNum": 8
     },
     {
       "date": "2026-11-10",
@@ -992,7 +1316,7 @@
       "name": "武汉城建万科云泊江岸",
       "salePrice": 18500.0,
       "soldChartImg": "https://img.wufangtong.cn/911799e152624e86bda8df81de016e93.png",
-      "soldNum": 15
+      "soldNum": 14
     },
     {
       "date": "2026-11-10",
@@ -1001,7 +1325,7 @@
       "name": "长江天元",
       "salePrice": 40000.0,
       "soldChartImg": "https://img.wufangtong.cn/2bf77b723c834e3ba00aba06c23fbca6.png",
-      "soldNum": 9
+      "soldNum": 8
     },
     {
       "date": "2026-11-10",
@@ -1010,7 +1334,7 @@
       "name": "华侨城红坊",
       "salePrice": 15000.0,
       "soldChartImg": "https://img.wufangtong.cn/2d2fb9074dab47e3b690b4d948c5ba0b.png",
-      "soldNum": 40
+      "soldNum": 39
     },
     {
       "date": "2026-11-10",
@@ -1037,7 +1361,7 @@
       "name": "华侨城·天荟",
       "salePrice": 12500.0,
       "soldChartImg": "https://img.wufangtong.cn/763932583dd8457a90ea4c192e5a1fc9.png",
-      "soldNum": 32
+      "soldNum": 31
     },
     {
       "date": "2026-11-10",
@@ -1046,7 +1370,7 @@
       "name": "武汉城建绍兴里1921",
       "salePrice": 25300.0,
       "soldChartImg": "https://img.wufangtong.cn/21180bc776cc4ecaa05fe85aaca7bc46.png",
-      "soldNum": 12
+      "soldNum": 11
     },
     {
       "date": "2026-11-10",
@@ -1091,7 +1415,7 @@
       "name": "幸福湾·星樾",
       "salePrice": 10500.0,
       "soldChartImg": "https://img.wufangtong.cn/a019da73c83e457496a457ae159cc96c.png",
-      "soldNum": 26
+      "soldNum": 27
     },
     {
       "date": "2026-11-10",
@@ -1104,21 +1428,12 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/bfdc287c5769461aa05c92bf75d75669.png",
-      "id": 467025054097483,
-      "name": "武汉·三镇中心",
-      "salePrice": 24000.0,
-      "soldChartImg": "https://img.wufangtong.cn/82070c49c2f449b8bfb82ed4e4db9204.png",
-      "soldNum": 1
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/8318e22b9376431e998abd1e0f3f20d2.png",
       "id": 479787456045138,
       "name": "联投燕语光年",
       "salePrice": 15500.0,
       "soldChartImg": "https://img.wufangtong.cn/3fbe4766045d4ea8b5d3b6632c004aaf.png",
-      "soldNum": 13
+      "soldNum": 11
     },
     {
       "date": "2026-11-10",
@@ -1136,7 +1451,7 @@
       "name": "能建青誉府",
       "salePrice": 16500.0,
       "soldChartImg": "https://img.wufangtong.cn/90df207c16a14785871bb4701e607567.png",
-      "soldNum": 40
+      "soldNum": 39
     },
     {
       "date": "2026-11-10",
@@ -1158,29 +1473,11 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/080d9b2ff1ca4e09a76587d0a9bcab8a.png",
-      "id": 334501106548827,
-      "name": "保利城七期云廷",
-      "salePrice": 13000.0,
-      "soldChartImg": "https://img.wufangtong.cn/84a6afb659f4496fa78252c2e9bb4f26.png",
-      "soldNum": 44
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/3d3336c55e1d42b39095c5fe8857b9be.png",
       "id": 455095843917896,
       "name": "武汉城建梦湖云著",
       "salePrice": 15000.0,
       "soldChartImg": "https://img.wufangtong.cn/712b3ad1d4884cc2872a47b403d84a62.png",
-      "soldNum": 3
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/3153d72a22b2443eabe2dc069fd7b72d.png",
-      "id": 334503227465801,
-      "name": "德雅国际城",
-      "salePrice": 6400.0,
-      "soldChartImg": "https://img.wufangtong.cn/cd99c2eff0e7412ba475584b35e45f72.png",
       "soldNum": 3
     },
     {
@@ -1199,7 +1496,7 @@
       "name": "凯德·淮海壹号",
       "salePrice": 21500.0,
       "soldChartImg": "https://img.wufangtong.cn/1145377681254358b91e1d8521975179.png",
-      "soldNum": 19
+      "soldNum": 17
     },
     {
       "date": "2026-11-10",
@@ -1209,15 +1506,6 @@
       "salePrice": 10000.0,
       "soldChartImg": "https://img.wufangtong.cn/754419f8f2e0404aae484024285cae3f.png",
       "soldNum": 6
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/a566db96adc1405eb4de7c95870cd457.png",
-      "id": 347273668268115,
-      "name": "恺德信达樾景臺",
-      "salePrice": 11500.0,
-      "soldChartImg": "https://img.wufangtong.cn/fc3add03bad04fb5b8c88e23cc2eecbb.png",
-      "soldNum": 60
     },
     {
       "date": "2026-11-10",
@@ -1235,7 +1523,7 @@
       "name": "东湖ONE",
       "salePrice": 14999.0,
       "soldChartImg": "https://img.wufangtong.cn/4261d83f35f04f0298499a6bdb84d4cc.png",
-      "soldNum": 66
+      "soldNum": 63
     },
     {
       "date": "2026-11-10",
@@ -1284,15 +1572,6 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/abfc33754f604ed59f120fc086fb8ec3.png",
-      "id": 334502236393543,
-      "name": "越秀汉阳星汇云锦",
-      "salePrice": 23000.0,
-      "soldChartImg": "https://img.wufangtong.cn/d1b5a8ffd34949378bc74ad873c1e044.png",
-      "soldNum": 14
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/8c5c2b5709444336b9d87f5375c43fe2.png",
       "id": 334503227465807,
       "name": "航城丽都",
@@ -1311,21 +1590,12 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/91bcf4f23303477989b103069adf5fcf.png",
-      "id": 329239308890196,
-      "name": "保利庭瑞阅江台",
-      "salePrice": 11000.0,
-      "soldChartImg": "https://img.wufangtong.cn/27595f4b35a042a9a87135ef17ee7d12.png",
-      "soldNum": 30
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/2f9740b7ffc84817b9de217863eb45e5.png",
       "id": 334501415100517,
       "name": "华发未来城",
       "salePrice": 6174.0,
       "soldChartImg": "https://img.wufangtong.cn/41eccffa585944c9a921c0fa2248d275.png",
-      "soldNum": 29
+      "soldNum": 28
     },
     {
       "date": "2026-11-10",
@@ -1334,7 +1604,7 @@
       "name": "首开光明国风上观",
       "salePrice": 7500.0,
       "soldChartImg": "https://img.wufangtong.cn/678d2d47d07740cfac779c2010caf1ce.png",
-      "soldNum": 12
+      "soldNum": 10
     },
     {
       "date": "2026-11-10",
@@ -1347,30 +1617,12 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/fe2eb9aac2c741ad850bf02a93aebd48.png",
-      "id": 510948422303829,
-      "name": "越秀天悦文华",
-      "salePrice": 13999.0,
-      "soldChartImg": "https://img.wufangtong.cn/f40e55cd76e845e79d0c357b2bc9a150.png",
-      "soldNum": 10
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/bea4d1caee2c4835a508b97131895a0b.png",
       "id": 447936956903500,
       "name": "维佳·关山郡",
       "salePrice": 15500.0,
       "soldChartImg": "https://img.wufangtong.cn/a695e262189d40c48b546cb0f56fb90b.png",
-      "soldNum": 12
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/83ee2c4cb59b485689569096ae440ec7.png",
-      "id": 334502133780565,
-      "name": "海天幸福天地和悦",
-      "salePrice": 8500.0,
-      "soldChartImg": "https://img.wufangtong.cn/6faea5e483b849b082d1399f5a7209f2.png",
-      "soldNum": 8
+      "soldNum": 11
     },
     {
       "date": "2026-11-10",
@@ -1379,7 +1631,7 @@
       "name": "深业泰雲府",
       "salePrice": 11000.0,
       "soldChartImg": "https://img.wufangtong.cn/b35fdd131f884bb48efe076f4222a067.png",
-      "soldNum": 8
+      "soldNum": 7
     },
     {
       "date": "2026-11-10",
@@ -1397,7 +1649,7 @@
       "name": "邦泰·璟和",
       "salePrice": 23000.0,
       "soldChartImg": "https://img.wufangtong.cn/e5a7da7484a6457a830d9c95b486be8e.png",
-      "soldNum": 9
+      "soldNum": 8
     },
     {
       "date": "2026-11-10",
@@ -1424,16 +1676,7 @@
       "name": "保利·锦上印 | 珀萃",
       "salePrice": 12000.0,
       "soldChartImg": "https://img.wufangtong.cn/3fb8891f22ea4cfd98a5912d18887f03.png",
-      "soldNum": 8
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/addb076ce6e141059dd33b44cabe5f73.png",
-      "id": 334501106552911,
-      "name": "新城桃李郡",
-      "salePrice": 7500.0,
-      "soldChartImg": "https://img.wufangtong.cn/e532f40593ae4d03af8ff84721770bfd.png",
-      "soldNum": 30
+      "soldNum": 7
     },
     {
       "date": "2026-11-10",
@@ -1443,15 +1686,6 @@
       "salePrice": 8200.0,
       "soldChartImg": "https://img.wufangtong.cn/960862c90251481d990e992cbd1d1e99.png",
       "soldNum": 2
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/d65cecba902849dcbe97059be90ab38c.png",
-      "id": 334503154655335,
-      "name": "北辰蔚蓝城市",
-      "salePrice": 5800.0,
-      "soldChartImg": "https://img.wufangtong.cn/5a86b4683a21403fb627268ddce76bfa.png",
-      "soldNum": 10
     },
     {
       "date": "2026-11-10",
@@ -1469,7 +1703,7 @@
       "name": "兴华尚都国际",
       "salePrice": 17000.0,
       "soldChartImg": "https://img.wufangtong.cn/db9ccd1a8ec5435ab2d44c5fbb156a6b.png",
-      "soldNum": 6
+      "soldNum": 5
     },
     {
       "date": "2026-11-10",
@@ -1488,15 +1722,6 @@
       "salePrice": 7999.0,
       "soldChartImg": "https://img.wufangtong.cn/8b40963780c24ad7917f1674008d22d5.png",
       "soldNum": 6
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/8da43c9f4fe848ba84297a76aad15840.png",
-      "id": 334501106548845,
-      "name": "万科华生公园大道",
-      "salePrice": 9000.0,
-      "soldChartImg": "https://img.wufangtong.cn/b42659492a504611a89364fd87c7e94c.png",
-      "soldNum": 12
     },
     {
       "date": "2026-11-10",
@@ -1532,7 +1757,7 @@
       "name": "光谷翡丽天玺",
       "salePrice": 18700.0,
       "soldChartImg": "https://img.wufangtong.cn/bde562296ab44dfd9ed7d1196a796fbf.png",
-      "soldNum": 8
+      "soldNum": 7
     },
     {
       "date": "2026-11-10",
@@ -1541,7 +1766,7 @@
       "name": "幸福湾·星语",
       "salePrice": 10000.0,
       "soldChartImg": "https://img.wufangtong.cn/c6f1a7548a6c45ccb0ac737ac22d3610.png",
-      "soldNum": 34
+      "soldNum": 31
     },
     {
       "date": "2026-11-10",
@@ -1572,21 +1797,12 @@
     },
     {
       "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/9a5253b5222f4067b2c58cfe633b1d72.png",
-      "id": 334501106552915,
-      "name": "武汉城建天汇龙城",
-      "salePrice": 7500.0,
-      "soldChartImg": "https://img.wufangtong.cn/f9cde55fc3c845b3aba52ac92b363605.png",
-      "soldNum": 36
-    },
-    {
-      "date": "2026-11-10",
       "douYinSoldChartImg": "https://img.wufangtong.cn/f56e703dd7d0422994ca6016a4fce2c0.png",
       "id": 334501106548825,
       "name": "尚城国际",
       "salePrice": 10000.0,
       "soldChartImg": "https://img.wufangtong.cn/fd075598d8044a1895f643c245d744f9.png",
-      "soldNum": 2
+      "soldNum": 1
     },
     {
       "date": "2026-11-10",
@@ -1613,25 +1829,7 @@
       "name": "金融街金悦府",
       "salePrice": 12000.0,
       "soldChartImg": "https://img.wufangtong.cn/13e71970d4644b60968e3a185055c17e.png",
-      "soldNum": 9
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/5040df707f6f48d3998dad749549513f.png",
-      "id": 329239308890197,
-      "name": "中国铁建知语1901",
-      "salePrice": 4480.0,
-      "soldChartImg": "https://img.wufangtong.cn/6b56029226b8494d92b3bf4ab0445155.png",
-      "soldNum": 11
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/38a3fa230611434cbe5ec665519ce756.png",
-      "id": 795364598689861,
-      "name": "新希望·长粼府",
-      "salePrice": 13000.0,
-      "soldChartImg": "https://img.wufangtong.cn/fa3a322e9dfe447b92d4890ffa4a1bae.png",
-      "soldNum": 56
+      "soldNum": 8
     },
     {
       "date": "2026-11-10",
@@ -1641,15 +1839,6 @@
       "salePrice": 23000.0,
       "soldChartImg": "https://img.wufangtong.cn/b459be2d062f433caed9ea6539ea5681.png",
       "soldNum": 14
-    },
-    {
-      "date": "2026-11-10",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/f47de97220fa4455b3de2d46fe71ff72.png",
-      "id": 334501106548843,
-      "name": "万科金域光年",
-      "salePrice": 8500.0,
-      "soldChartImg": "https://img.wufangtong.cn/821f0096a02e414b840a4579bd584ac2.png",
-      "soldNum": -2
     },
     {
       "date": "2026-11-07",
@@ -1703,16 +1892,7 @@
       "name": "青山国投绿城·锦棠翠晓",
       "salePrice": 13518.0,
       "soldChartImg": "https://img.wufangtong.cn/7aab23febcbf49c5ab62ce7319872e6e.png",
-      "soldNum": 13
-    },
-    {
-      "date": "2026-11-06",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/3551a1d5687a4e4da601647da707ddef.png",
-      "id": 733961206968432,
-      "name": "招商·紫荆府",
-      "salePrice": 29000.0,
-      "soldChartImg": "https://img.wufangtong.cn/ddbc6f4b54b84c43a32796ac90425664.png",
-      "soldNum": 10
+      "soldNum": 12
     },
     {
       "date": "2026-11-06",
@@ -1734,30 +1914,12 @@
     },
     {
       "date": "2026-11-06",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/d955b2493d064e20bc8ba47666e8002f.png",
-      "id": 334502236389457,
-      "name": "坤合云海城",
-      "salePrice": 7600.0,
-      "soldChartImg": "https://img.wufangtong.cn/2bda3a3c27034612a2514b3c0550e14c.png",
-      "soldNum": 4
-    },
-    {
-      "date": "2026-11-06",
       "douYinSoldChartImg": "https://img.wufangtong.cn/286ad411ea3b43f39a729e89b965aed6.png",
       "id": 334502236393558,
       "name": "帝大御璟城",
       "salePrice": 8500.0,
       "soldChartImg": "https://img.wufangtong.cn/6aa6f8a07cd9483a9aae634a3b73e065.png",
       "soldNum": 0
-    },
-    {
-      "date": "2026-11-06",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/6e072f1f2e6945958f8caed8cad2266b.png",
-      "id": 334503202562127,
-      "name": "联投悦西湖",
-      "salePrice": 10000.0,
-      "soldChartImg": "https://img.wufangtong.cn/5f0e81bcea1c484ab63b370d3efdfd69.png",
-      "soldNum": 12
     },
     {
       "date": "2026-11-06",
@@ -1793,7 +1955,7 @@
       "name": "天熙楚世家",
       "salePrice": 5999.0,
       "soldChartImg": "https://img.wufangtong.cn/a289350274c5462989a36201b2699553.png",
-      "soldNum": 9
+      "soldNum": 7
     },
     {
       "date": "2026-11-06",
@@ -1892,25 +2054,7 @@
       "name": "保利悦公馆",
       "salePrice": 7500.0,
       "soldChartImg": "https://img.wufangtong.cn/619ebb0141044e24a97657d197c337f9.png",
-      "soldNum": 9
-    },
-    {
-      "date": "2026-11-05",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/4229bb358a3343a58b6c405b4012d75b.png",
-      "id": 825091332972613,
-      "name": "中建壹品·光谷元著",
-      "salePrice": 14500.0,
-      "soldChartImg": "https://img.wufangtong.cn/0328d611de4b4171971d28d98694e676.png",
-      "soldNum": 33
-    },
-    {
-      "date": "2026-11-05",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/e07eefc93f2a460389e9b4861336fa87.png",
-      "id": 708885269098565,
-      "name": "中信泰富滨江金融城·九玺",
-      "salePrice": 45000.0,
-      "soldChartImg": "https://img.wufangtong.cn/dfb1eaaea59f4339a4c0f2dad7562572.png",
-      "soldNum": 6
+      "soldNum": 7
     },
     {
       "date": "2026-11-05",
@@ -1973,7 +2117,7 @@
       "name": "中建东湖锦城",
       "salePrice": 16500.0,
       "soldChartImg": "https://img.wufangtong.cn/580db6447c5b460787d210cf1cbb1563.png",
-      "soldNum": 5
+      "soldNum": 0
     },
     {
       "date": "2026-11-05",
@@ -2103,15 +2247,6 @@
     },
     {
       "date": "2026-11-04",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/52a49f77cea94bd48ec75fcf133380e8.png",
-      "id": 334503298535510,
-      "name": "地铁时代云上城",
-      "salePrice": 8800.0,
-      "soldChartImg": "https://img.wufangtong.cn/5c44b91b17e0442995cf069d49870295.png",
-      "soldNum": 4
-    },
-    {
-      "date": "2026-11-04",
       "douYinSoldChartImg": "https://img.wufangtong.cn/99d131aafd594a1d836473e0f7ba4645.png",
       "id": 334503250387054,
       "name": "百瑞景滨江生活区",
@@ -2136,15 +2271,6 @@
       "salePrice": 15500.0,
       "soldChartImg": "https://img.wufangtong.cn/efba862512394bbe802d282015d330b0.png",
       "soldNum": 0
-    },
-    {
-      "date": "2026-11-04",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/b84aad4b3fdc41188b8d411a22a2fd2f.png",
-      "id": 334501415104583,
-      "name": "中海寰宇天下",
-      "salePrice": 19000.0,
-      "soldChartImg": "https://img.wufangtong.cn/2e8191af4a5f429095ac95e1f8de3425.png",
-      "soldNum": 15
     },
     {
       "date": "2026-11-04",
@@ -2180,7 +2306,7 @@
       "name": "武汉城建汉江云宸",
       "salePrice": 14500.0,
       "soldChartImg": "https://img.wufangtong.cn/2125ccfd0dbd423fae2b2592cf6addc3.png",
-      "soldNum": 11
+      "soldNum": 10
     },
     {
       "date": "2026-11-03",
@@ -2189,7 +2315,7 @@
       "name": "云玺1932",
       "salePrice": 19000.0,
       "soldChartImg": "https://img.wufangtong.cn/fb3fce0c4073456c9e020672c440aa08.png",
-      "soldNum": 9
+      "soldNum": 8
     },
     {
       "date": "2026-11-03",
@@ -2351,7 +2477,7 @@
       "name": "汉阳城更·境湖玥",
       "salePrice": 14000.0,
       "soldChartImg": "https://img.wufangtong.cn/c7c275785aa04f398dbacaacba25d108.png",
-      "soldNum": 4
+      "soldNum": 3
     },
     {
       "date": "2026-10-31",
@@ -2504,7 +2630,7 @@
       "name": "状元府",
       "salePrice": 5300.0,
       "soldChartImg": "https://img.wufangtong.cn/7dbd3b81f25b4bf7a3599078008527b8.png",
-      "soldNum": -5
+      "soldNum": -4
     },
     {
       "date": "2026-10-30",
@@ -2531,15 +2657,6 @@
       "name": "光谷中央公园",
       "salePrice": 19000.0,
       "soldChartImg": "https://img.wufangtong.cn/42f94011d6c94595a2e28cc0e3fbdde4.png",
-      "soldNum": 1
-    },
-    {
-      "date": "2026-10-30",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/cd74c715d5e447a78dc11f83aa792f8e.png",
-      "id": 329239308886096,
-      "name": "方岛金茂观棠",
-      "salePrice": 14500.0,
-      "soldChartImg": "https://img.wufangtong.cn/d8dee7dbbd504d689cf5de15e1ef672b.png",
       "soldNum": 1
     },
     {
@@ -2594,7 +2711,7 @@
       "name": "洺悦华府",
       "salePrice": 3000.0,
       "soldChartImg": "https://img.wufangtong.cn/8309a9940a5e4cbd9403fc87df37de92.png",
-      "soldNum": 5
+      "soldNum": 4
     },
     {
       "date": "2026-10-30",
@@ -2630,7 +2747,7 @@
       "name": "华发公园首府",
       "salePrice": 32000.0,
       "soldChartImg": "https://img.wufangtong.cn/6a0b390e5f9440bc9647d8b74576dece.png",
-      "soldNum": 7
+      "soldNum": 6
     },
     {
       "date": "2026-10-29",
@@ -2661,15 +2778,6 @@
     },
     {
       "date": "2026-10-29",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/0e7b07f95b804ae1997ec191228fee6c.png",
-      "id": 344782785065029,
-      "name": "金地悦海湾",
-      "salePrice": 9700.0,
-      "soldChartImg": "https://img.wufangtong.cn/5ffc747891ca4cce9400ea844dd71d5f.png",
-      "soldNum": 1
-    },
-    {
-      "date": "2026-10-29",
       "douYinSoldChartImg": "https://img.wufangtong.cn/8c77a2e1107743bdb017f0e1eeaee8f0.png",
       "id": 334520358039662,
       "name": "中国铁建知语城",
@@ -2684,7 +2792,7 @@
       "name": "三远大爱城",
       "salePrice": 6500.0,
       "soldChartImg": "https://img.wufangtong.cn/761ddb816588423ca064f8a5840672ca.png",
-      "soldNum": 6
+      "soldNum": 5
     },
     {
       "date": "2026-10-29",
@@ -2694,15 +2802,6 @@
       "salePrice": 21000.0,
       "soldChartImg": "https://img.wufangtong.cn/1437e6f0207243929ac1e0d81b39cf15.png",
       "soldNum": 0
-    },
-    {
-      "date": "2026-10-29",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/ed651bde102d4bea90534ee0c66a1d5a.png",
-      "id": 334502236389466,
-      "name": "德信时光之宸",
-      "salePrice": 8500.0,
-      "soldChartImg": "https://img.wufangtong.cn/6394ebfb94784df8aaf7c88fb8c6e938.png",
-      "soldNum": 1
     },
     {
       "date": "2026-10-29",
@@ -2828,7 +2927,7 @@
       "name": "中国电建地产·汉阳公馆",
       "salePrice": 16000.0,
       "soldChartImg": "https://img.wufangtong.cn/f379fe4a8d724c5cbe144213d3db4525.png",
-      "soldNum": 3
+      "soldNum": 2
     },
     {
       "date": "2026-10-27",
@@ -2940,15 +3039,6 @@
     },
     {
       "date": "2026-10-23",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/3d24a73e39de471ab279d930db3bc8c7.png",
-      "id": 334502133780555,
-      "name": "武汉蔡甸吾悦广场|世家",
-      "salePrice": 6500.0,
-      "soldChartImg": "https://img.wufangtong.cn/34d86f386bd946b58cc9d78207a3f3fc.png",
-      "soldNum": 6
-    },
-    {
-      "date": "2026-10-23",
       "douYinSoldChartImg": "https://img.wufangtong.cn/b494f49bfea248a59036eeec04aa3a84.png",
       "id": 356580447010885,
       "name": "现代天外天小镇金融湾",
@@ -3008,7 +3098,7 @@
       "name": "现代天外天小镇",
       "salePrice": 15500.0,
       "soldChartImg": "https://img.wufangtong.cn/4395af0bca084217acdf79b627e0125a.png",
-      "soldNum": 3
+      "soldNum": 2
     },
     {
       "date": "2026-10-22",
@@ -3027,24 +3117,6 @@
       "salePrice": 15700.0,
       "soldChartImg": "https://img.wufangtong.cn/082e5c72a6844060bbc2d5c72351fe15.png",
       "soldNum": 1
-    },
-    {
-      "date": "2026-10-22",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/df030440e9414c4f8f23b086ebe7f635.png",
-      "id": 334502236389450,
-      "name": "卓越大江",
-      "salePrice": 19000.0,
-      "soldChartImg": "https://img.wufangtong.cn/c643c6d89c334df1a8f07aaae9af2875.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-10-22",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/e37da0e19385429d8cc0c60a54cbc578.png",
-      "id": 334503360417868,
-      "name": "中冶39大街",
-      "salePrice": 22000.0,
-      "soldChartImg": "https://img.wufangtong.cn/43777a8110a4411db5a6b6ebeafbd8f7.png",
-      "soldNum": 0
     },
     {
       "date": "2026-10-22",
@@ -3126,24 +3198,6 @@
       "salePrice": 17000.0,
       "soldChartImg": "https://img.wufangtong.cn/a332f27b59df46c7acc75cf0e7c8bb65.png",
       "soldNum": 0
-    },
-    {
-      "date": "2026-10-21",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/605f4245dce64b7191a813b0bb62ba8c.png",
-      "id": 334501106548837,
-      "name": "龙湖揽境",
-      "salePrice": 13000.0,
-      "soldChartImg": "https://img.wufangtong.cn/5fe30183f4e94595ac2fd3b48738cd99.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-10-20",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/5274503d170d400490faf4635a4af36e.png",
-      "id": 334502133776459,
-      "name": "盘龙理想城",
-      "salePrice": 6980.0,
-      "soldChartImg": "https://img.wufangtong.cn/735527538ab64b0e9cd4f8b3ce0779cc.png",
-      "soldNum": 1
     },
     {
       "date": "2026-10-20",
@@ -3305,7 +3359,7 @@
       "name": "福星惠誉·铂雅府",
       "salePrice": 18000.0,
       "soldChartImg": "https://img.wufangtong.cn/7e9e7f30fcfc4f6ea84f1bbb96e1b6d9.png",
-      "soldNum": -6
+      "soldNum": 0
     },
     {
       "date": "2026-10-13",
@@ -3314,7 +3368,7 @@
       "name": "望雲",
       "salePrice": 32000.0,
       "soldChartImg": "https://img.wufangtong.cn/596f612d1a4f451881e67277b5e35300.png",
-      "soldNum": -2
+      "soldNum": 0
     },
     {
       "date": "2026-10-13",
