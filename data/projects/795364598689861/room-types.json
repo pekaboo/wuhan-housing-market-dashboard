@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12 14:13:53",
+  "generatedAt": "2026-11-12 15:53:28",
   "projectId": 795364598689861,
   "status": "complete",
   "types": [
@@ -38,23 +38,6 @@
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 29,
-          "buildId": 312481879474255,
-          "buildName": "武汉经开23R2项目（二期）变更1",
-          "buildShortName": "1#",
-          "buildType": "高层",
-          "buildTypeId": 4,
-          "evidenceId": 845296798081285,
-          "evidenceName": "武房开预售[2026]243号",
-          "floorTotal": 32,
-          "oldUnitName": "2",
-          "roomTotal": 31,
-          "soldNum": 2,
-          "unitId": 0,
-          "unitName": "2"
-        },
-        {
-          "abnormalRoomNum": 0,
           "availableRoomNum": 4,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
@@ -69,6 +52,23 @@
           "soldNum": 27,
           "unitId": 0,
           "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 29,
+          "buildId": 312481879474255,
+          "buildName": "武汉经开23R2项目（二期）变更1",
+          "buildShortName": "1#",
+          "buildType": "高层",
+          "buildTypeId": 4,
+          "evidenceId": 845296798081285,
+          "evidenceName": "武房开预售[2026]243号",
+          "floorTotal": 32,
+          "oldUnitName": "2",
+          "roomTotal": 31,
+          "soldNum": 2,
+          "unitId": 0,
+          "unitName": "2"
         },
         {
           "abnormalRoomNum": 0,
@@ -127,11 +127,11 @@
           "evidenceId": 845296798081285,
           "evidenceName": "武房开预售[2026]243号",
           "floorTotal": 32,
-          "oldUnitName": "2",
+          "oldUnitName": "1",
           "roomTotal": 31,
           "soldNum": 16,
           "unitId": 0,
-          "unitName": "2"
+          "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
@@ -144,11 +144,11 @@
           "evidenceId": 845296798081285,
           "evidenceName": "武房开预售[2026]243号",
           "floorTotal": 32,
-          "oldUnitName": "1",
+          "oldUnitName": "2",
           "roomTotal": 31,
           "soldNum": 16,
           "unitId": 0,
-          "unitName": "1"
+          "unitName": "2"
         },
         {
           "abnormalRoomNum": 0,

@@ -1,8 +1,8 @@
 {
   "count": 398,
-  "enrichmentUpdatedAt": "2026-11-12 14:14:11",
-  "generatedAt": "2026-11-12 14:14:12",
-  "listUpdatedAt": "2026-11-12 14:14:12",
+  "enrichmentUpdatedAt": "2026-11-12 15:53:45",
+  "generatedAt": "2026-11-12 15:53:48",
+  "listUpdatedAt": "2026-11-12 15:53:48",
   "projects": [
     {
       "date": "2026-11-12",
@@ -45,7 +45,7 @@
       "douYinSoldChartImg": "https://img.wufangtong.cn/9fade208188540398bebf30ba0cd630e.png",
       "id": 334503154655302,
       "name": "武汉城建·中央云城",
-      "salePrice": 36000.0,
+      "salePrice": 23500.0,
       "soldChartImg": "https://img.wufangtong.cn/7589745262644a86900e174358c664d3.png",
       "soldNum": 28
     },
