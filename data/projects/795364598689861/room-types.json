@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13 15:29:52",
+  "generatedAt": "2026-11-14 13:25:56",
   "projectId": 795364598689861,
   "status": "complete",
   "types": [
@@ -198,23 +198,6 @@
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 1,
-          "buildId": 312481879474254,
-          "buildName": "武汉经开23R2项目（二期）变更5",
-          "buildShortName": "5#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 820149801201733,
-          "evidenceName": "武房开预售[2026]178号",
-          "floorTotal": 15,
-          "oldUnitName": "2",
-          "roomTotal": 28,
-          "soldNum": 27,
-          "unitId": 0,
-          "unitName": "2"
-        },
-        {
-          "abnormalRoomNum": 0,
           "availableRoomNum": 9,
           "buildId": 312481879474254,
           "buildName": "武汉经开23R2项目（二期）变更5",
@@ -229,6 +212,23 @@
           "soldNum": 19,
           "unitId": 0,
           "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 1,
+          "buildId": 312481879474254,
+          "buildName": "武汉经开23R2项目（二期）变更5",
+          "buildShortName": "5#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 820149801201733,
+          "evidenceName": "武房开预售[2026]178号",
+          "floorTotal": 15,
+          "oldUnitName": "2",
+          "roomTotal": 28,
+          "soldNum": 27,
+          "unitId": 0,
+          "unitName": "2"
         },
         {
           "abnormalRoomNum": 0,
