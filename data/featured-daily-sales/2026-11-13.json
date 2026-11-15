@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-14 15:14:17",
+  "generatedAt": "2026-11-15 13:22:18",
   "message": null,
   "projects": [
     {
@@ -252,7 +252,7 @@
       "projectAveragePrice": 13000.0,
       "projectDate": "2026-11-12",
       "projectId": 795364598689861,
-      "projectSoldCount": 48,
+      "projectSoldCount": 47,
       "soldCount": 0,
       "sourceSoldCount": null
     },
@@ -459,7 +459,7 @@
       "projectAveragePrice": 15100.0,
       "projectDate": "2026-11-13",
       "projectId": 814651876638817,
-      "projectSoldCount": 66,
+      "projectSoldCount": 65,
       "soldCount": 1,
       "sourceSoldCount": 1
     },
@@ -712,7 +712,7 @@
       "projectAveragePrice": 15500.0,
       "projectDate": "2026-11-13",
       "projectId": 781406555324501,
-      "projectSoldCount": 56,
+      "projectSoldCount": 50,
       "soldCount": 1,
       "sourceSoldCount": 1
     }
