@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-15 13:22:18",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-15 15:23:30",
   "message": null,
   "projects": [
     {
@@ -408,7 +408,7 @@
           ]
         },
         {
-          "averagePrice": 16476.739957340917,
+          "averagePrice": null,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildType": "高层",
           "currentAvailableCount": 66,
@@ -419,20 +419,11 @@
             "武房开预售[2026]254号"
           ],
           "roomCount": 100,
-          "rooms": [
-            {
-              "area": 112.52,
-              "floor": "24",
-              "price": 16476.74,
-              "roomName": "2404",
-              "totalPrice": 1853962.78,
-              "unitName": "1"
-            }
-          ],
+          "rooms": [],
           "shortBuildName": "9#",
-          "soldCount": 1,
-          "totalArea": 112.52,
-          "totalPrice": 1853962.78,
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
           "units": [
             "1"
           ]
@@ -460,8 +451,8 @@
       "projectDate": "2026-11-13",
       "projectId": 814651876638817,
       "projectSoldCount": 65,
-      "soldCount": 1,
-      "sourceSoldCount": 1
+      "soldCount": 0,
+      "sourceSoldCount": null
     },
     {
       "buildings": [
@@ -617,7 +608,7 @@
           ]
         },
         {
-          "averagePrice": 16231.169997205141,
+          "averagePrice": null,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
           "buildType": "小高层",
           "currentAvailableCount": 5,
@@ -628,20 +619,11 @@
             "武房开预售[2026]181号"
           ],
           "roomCount": 52,
-          "rooms": [
-            {
-              "area": 143.12,
-              "floor": "1",
-              "price": 16231.17,
-              "roomName": "102",
-              "totalPrice": 2323005.05,
-              "unitName": "2"
-            }
-          ],
+          "rooms": [],
           "shortBuildName": "7#",
-          "soldCount": 1,
-          "totalArea": 143.12,
-          "totalPrice": 2323005.05,
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
           "units": [
             "1",
             "2"
@@ -713,11 +695,11 @@
       "projectDate": "2026-11-13",
       "projectId": 781406555324501,
       "projectSoldCount": 50,
-      "soldCount": 1,
-      "sourceSoldCount": 1
+      "soldCount": 0,
+      "sourceSoldCount": null
     }
   ],
   "status": "ok",
-  "totalSold": 2,
+  "totalSold": 0,
   "version": 1
 }
