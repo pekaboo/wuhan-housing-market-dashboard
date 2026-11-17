@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16 15:29:24",
+  "generatedAt": "2026-11-17 15:00:42",
   "projectId": 781406555324501,
   "status": "complete",
   "types": [
@@ -97,7 +97,7 @@
     },
     {
       "area": 127.0,
-      "availableRoomNum": 12,
+      "availableRoomNum": 10,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -118,7 +118,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 4,
+          "availableRoomNum": 2,
           "buildId": 820501215248458,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
           "buildShortName": "5#",
@@ -129,7 +129,7 @@
           "floorTotal": 17,
           "oldUnitName": "1",
           "roomTotal": 16,
-          "soldNum": 12,
+          "soldNum": 14,
           "unitId": 0,
           "unitName": "1"
         }
@@ -143,7 +143,7 @@
     },
     {
       "area": 143.0,
-      "availableRoomNum": 38,
+      "availableRoomNum": 36,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -215,7 +215,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 23,
+          "availableRoomNum": 21,
           "buildId": 820501215252552,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）9",
           "buildShortName": "9#",
@@ -226,7 +226,7 @@
           "floorTotal": 15,
           "oldUnitName": "1",
           "roomTotal": 28,
-          "soldNum": 5,
+          "soldNum": 7,
           "unitId": 0,
           "unitName": "1"
         }

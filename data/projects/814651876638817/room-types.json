@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16 15:29:17",
+  "generatedAt": "2026-11-17 15:00:34",
   "projectId": 814651876638817,
   "status": "complete",
   "types": [
     {
       "area": 139.0,
-      "availableRoomNum": 76,
+      "availableRoomNum": 75,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -26,7 +26,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 23,
+          "availableRoomNum": 22,
           "buildId": 820234721681483,
           "buildName": "新建居住项目（陶家岭公交停保场地块）3",
           "buildShortName": "3#",
@@ -37,7 +37,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 48,
-          "soldNum": 25,
+          "soldNum": 26,
           "unitId": 0,
           "unitName": "1"
         },
@@ -68,11 +68,11 @@
     },
     {
       "area": 127.0,
-      "availableRoomNum": 13,
+      "availableRoomNum": 12,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 3,
+          "availableRoomNum": 2,
           "buildId": 820234721681485,
           "buildName": "新建居住项目（陶家岭公交停保场地块）5",
           "buildShortName": "5#",
@@ -83,7 +83,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 24,
-          "soldNum": 21,
+          "soldNum": 22,
           "unitId": 0,
           "unitName": "1"
         },
@@ -114,11 +114,11 @@
     },
     {
       "area": 123.0,
-      "availableRoomNum": 42,
+      "availableRoomNum": 40,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 26,
+          "availableRoomNum": 25,
           "buildId": 820234721681478,
           "buildName": "新建居住项目（陶家岭公交停保场地块）10",
           "buildShortName": "10#",
@@ -129,13 +129,13 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 48,
-          "soldNum": 22,
+          "soldNum": 23,
           "unitId": 0,
           "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 8,
+          "availableRoomNum": 7,
           "buildId": 820234721681485,
           "buildName": "新建居住项目（陶家岭公交停保场地块）5",
           "buildShortName": "5#",
@@ -146,7 +146,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 24,
-          "soldNum": 16,
+          "soldNum": 17,
           "unitId": 0,
           "unitName": "1"
         },
@@ -177,7 +177,7 @@
     },
     {
       "area": 114.0,
-      "availableRoomNum": 72,
+      "availableRoomNum": 66,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -198,7 +198,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 20,
+          "availableRoomNum": 19,
           "buildId": 820234721685575,
           "buildName": "新建居住项目（陶家岭公交停保场地块）8",
           "buildShortName": "8#",
@@ -209,13 +209,13 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 64,
-          "soldNum": 44,
+          "soldNum": 45,
           "unitId": 0,
           "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 31,
+          "availableRoomNum": 26,
           "buildId": 820234721685576,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildShortName": "9#",
@@ -226,7 +226,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 50,
-          "soldNum": 19,
+          "soldNum": 24,
           "unitId": 0,
           "unitName": "1"
         }
@@ -240,7 +240,7 @@
     },
     {
       "area": 101.0,
-      "availableRoomNum": 69,
+      "availableRoomNum": 66,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -261,7 +261,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 21,
+          "availableRoomNum": 20,
           "buildId": 820234721685575,
           "buildName": "新建居住项目（陶家岭公交停保场地块）8",
           "buildShortName": "8#",
@@ -272,13 +272,13 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 62,
-          "soldNum": 41,
+          "soldNum": 42,
           "unitId": 0,
           "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 35,
+          "availableRoomNum": 33,
           "buildId": 820234721685576,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildShortName": "9#",
@@ -289,7 +289,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 50,
-          "soldNum": 15,
+          "soldNum": 17,
           "unitId": 0,
           "unitName": "1"
         }
