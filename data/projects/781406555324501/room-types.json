@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17 16:42:52",
+  "generatedAt": "2026-11-18 14:23:55",
   "projectId": 781406555324501,
   "status": "complete",
   "types": [
@@ -181,23 +181,6 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 9,
-          "buildId": 820501215252551,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）8",
-          "buildShortName": "8#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 837864955498757,
-          "evidenceName": "武房开预售[2026]226号",
-          "floorTotal": 17,
-          "oldUnitName": "2",
-          "roomTotal": 16,
-          "soldNum": 7,
-          "unitId": 0,
-          "unitName": "2"
-        },
-        {
-          "abnormalRoomNum": 0,
           "availableRoomNum": 4,
           "buildId": 820501215252551,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）8",
@@ -212,6 +195,23 @@
           "soldNum": 6,
           "unitId": 0,
           "unitName": "1"
+        },
+        {
+          "abnormalRoomNum": 0,
+          "availableRoomNum": 9,
+          "buildId": 820501215252551,
+          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）8",
+          "buildShortName": "8#",
+          "buildType": "小高层",
+          "buildTypeId": 3,
+          "evidenceId": 837864955498757,
+          "evidenceName": "武房开预售[2026]226号",
+          "floorTotal": 17,
+          "oldUnitName": "2",
+          "roomTotal": 16,
+          "soldNum": 7,
+          "unitId": 0,
+          "unitName": "2"
         },
         {
           "abnormalRoomNum": 0,
