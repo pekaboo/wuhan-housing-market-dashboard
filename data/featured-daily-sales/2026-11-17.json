@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-18 16:05:41",
+  "generatedAt": "2026-11-19 14:25:49",
   "message": null,
   "projects": [
     {
@@ -51,8 +51,8 @@
           "averagePrice": 15411.957300011736,
           "buildName": "洪山区委党校西侧地块项目2",
           "buildType": null,
-          "currentAvailableCount": 102,
-          "currentSoldCount": 22,
+          "currentAvailableCount": 87,
+          "currentSoldCount": 37,
           "floorTotal": 24,
           "officialBuildName": "2号楼",
           "presaleCertificates": [
@@ -216,8 +216,8 @@
           "averagePrice": null,
           "buildName": "洪山区委党校西侧地块项目4 ",
           "buildType": "高层",
-          "currentAvailableCount": 3,
-          "currentSoldCount": 132,
+          "currentAvailableCount": 2,
+          "currentSoldCount": 133,
           "floorTotal": 26,
           "officialBuildName": "洪山区委党校西侧地块项目4 ",
           "presaleCertificates": [
@@ -239,14 +239,14 @@
       "district": "洪山",
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 15291.54633085652,
-        "availableCount": 108,
+        "availableAveragePrice": 15222.400458197886,
+        "availableCount": 92,
         "certificateCount": 5,
         "completionTime": "2028-01-01",
         "deliveryTime": "2028-03-25",
         "roomCount": 375,
         "roomTypeCount": 5,
-        "soldCount": 267
+        "soldCount": 283
       },
       "location": {
         "kind": "项目/地块线索",
@@ -254,9 +254,9 @@
       },
       "name": "武汉城建白沙嘉序",
       "projectAveragePrice": 13800.0,
-      "projectDate": "2026-11-18",
+      "projectDate": "2026-11-19",
       "projectId": 806507620348020,
-      "projectSoldCount": 30,
+      "projectSoldCount": 44,
       "soldCount": 15,
       "sourceSoldCount": 15
     },
@@ -331,8 +331,8 @@
           "averagePrice": 13806.219956526238,
           "buildName": "武汉经开23R2项目（二期）变更4",
           "buildType": "小高层",
-          "currentAvailableCount": 95,
-          "currentSoldCount": 1,
+          "currentAvailableCount": 94,
+          "currentSoldCount": 2,
           "floorTotal": 17,
           "officialBuildName": "武汉经开23R2项目（二期）变更4",
           "presaleCertificates": [
@@ -387,14 +387,14 @@
       "district": "武汉经开",
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 13474.874707638108,
-        "availableCount": 193,
+        "availableAveragePrice": 13473.633347297424,
+        "availableCount": 192,
         "certificateCount": 5,
         "completionTime": "2028-05-31",
         "deliveryTime": "2028-05-31",
         "roomCount": 488,
         "roomTypeCount": 4,
-        "soldCount": 295
+        "soldCount": 296
       },
       "location": {
         "kind": "项目/地块线索",
@@ -402,9 +402,9 @@
       },
       "name": "新希望·长粼府",
       "projectAveragePrice": 13000.0,
-      "projectDate": "2026-11-18",
+      "projectDate": "2026-11-19",
       "projectId": 795364598689861,
-      "projectSoldCount": 51,
+      "projectSoldCount": 46,
       "soldCount": 1,
       "sourceSoldCount": 1
     },
@@ -456,8 +456,8 @@
           "averagePrice": 17751.720029239765,
           "buildName": "新建居住项目（陶家岭公交停保场地块）10",
           "buildType": "高层",
-          "currentAvailableCount": 27,
-          "currentSoldCount": 23,
+          "currentAvailableCount": 26,
+          "currentSoldCount": 24,
           "floorTotal": 25,
           "officialBuildName": "新建居住项目（陶家岭公交停保场地块）10",
           "presaleCertificates": [
@@ -615,8 +615,8 @@
           "averagePrice": 16788.03479719107,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildType": "高层",
-          "currentAvailableCount": 56,
-          "currentSoldCount": 44,
+          "currentAvailableCount": 53,
+          "currentSoldCount": 47,
           "floorTotal": 25,
           "officialBuildName": "新建居住项目（陶家岭公交停保场地块）9",
           "presaleCertificates": [
@@ -694,14 +694,14 @@
       "district": null,
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 17153.46088353067,
-        "availableCount": 298,
+        "availableAveragePrice": 17156.54593384394,
+        "availableCount": 294,
         "certificateCount": 8,
         "completionTime": "2028-07-14",
         "deliveryTime": "2028-08-14",
         "roomCount": 682,
         "roomTypeCount": 5,
-        "soldCount": 384
+        "soldCount": 388
       },
       "location": {
         "kind": "项目/地块线索",
@@ -709,9 +709,9 @@
       },
       "name": "邦泰悦九章",
       "projectAveragePrice": 15100.0,
-      "projectDate": "2026-11-18",
+      "projectDate": "2026-11-19",
       "projectId": 814651876638817,
-      "projectSoldCount": 79,
+      "projectSoldCount": 75,
       "soldCount": 13,
       "sourceSoldCount": 13
     },
@@ -830,8 +830,8 @@
           "averagePrice": null,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）10",
           "buildType": "小高层",
-          "currentAvailableCount": 9,
-          "currentSoldCount": 36,
+          "currentAvailableCount": 7,
+          "currentSoldCount": 38,
           "floorTotal": 15,
           "officialBuildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）10",
           "presaleCertificates": [
@@ -933,8 +933,8 @@
           "averagePrice": 18820.435006024523,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）9",
           "buildType": "小高层",
-          "currentAvailableCount": 21,
-          "currentSoldCount": 9,
+          "currentAvailableCount": 20,
+          "currentSoldCount": 10,
           "floorTotal": 15,
           "officialBuildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）9",
           "presaleCertificates": [
@@ -972,14 +972,14 @@
       "district": null,
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 17005.245504729235,
-        "availableCount": 118,
+        "availableAveragePrice": 17013.405008396057,
+        "availableCount": 115,
         "certificateCount": 7,
         "completionTime": "2027-10-16",
         "deliveryTime": "2028-01-13",
         "roomCount": 721,
         "roomTypeCount": 4,
-        "soldCount": 603
+        "soldCount": 606
       },
       "location": {
         "kind": "项目/地块线索",
@@ -987,9 +987,9 @@
       },
       "name": "保利·星奕",
       "projectAveragePrice": 15500.0,
-      "projectDate": "2026-11-17",
+      "projectDate": "2026-11-19",
       "projectId": 781406555324501,
-      "projectSoldCount": 53,
+      "projectSoldCount": 38,
       "soldCount": 4,
       "sourceSoldCount": 4
     }

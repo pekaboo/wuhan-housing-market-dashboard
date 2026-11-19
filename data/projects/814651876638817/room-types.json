@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18 16:05:30",
+  "generatedAt": "2026-11-19 14:25:40",
   "projectId": 814651876638817,
   "status": "complete",
   "types": [
@@ -114,11 +114,11 @@
     },
     {
       "area": 123.0,
-      "availableRoomNum": 40,
+      "availableRoomNum": 39,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 25,
+          "availableRoomNum": 24,
           "buildId": 820234721681478,
           "buildName": "新建居住项目（陶家岭公交停保场地块）10",
           "buildShortName": "10#",
@@ -129,7 +129,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 48,
-          "soldNum": 23,
+          "soldNum": 24,
           "unitId": 0,
           "unitName": "1"
         },
@@ -177,7 +177,7 @@
     },
     {
       "area": 114.0,
-      "availableRoomNum": 66,
+      "availableRoomNum": 65,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -215,7 +215,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 26,
+          "availableRoomNum": 25,
           "buildId": 820234721685576,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildShortName": "9#",
@@ -226,7 +226,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 50,
-          "soldNum": 24,
+          "soldNum": 25,
           "unitId": 0,
           "unitName": "1"
         }
@@ -240,7 +240,7 @@
     },
     {
       "area": 101.0,
-      "availableRoomNum": 63,
+      "availableRoomNum": 61,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -278,7 +278,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 30,
+          "availableRoomNum": 28,
           "buildId": 820234721685576,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildShortName": "9#",
@@ -289,7 +289,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 50,
-          "soldNum": 20,
+          "soldNum": 22,
           "unitId": 0,
           "unitName": "1"
         }
