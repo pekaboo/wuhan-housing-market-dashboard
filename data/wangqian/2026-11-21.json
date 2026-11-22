@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-21",
+  "list": [
+    {
+      "allRoomList": [],
+      "id": 329239308886087,
+      "name": "武汉城建·雲栖湖岸",
+      "roomList": [
+        {
+          "area": 119.55,
+          "buildId": 312230528299077,
+          "buildName": "武汉经济技术开发区1R1地块10号楼",
+          "floor": "5",
+          "id": 313052913418330,
+          "price": 19746.0,
+          "roomName": "502",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "10#",
+          "totalPrice": 2360634.3,
+          "unitName": "/"
+        },
+        {
+          "area": 119.55,
+          "buildId": 312230528299077,
+          "buildName": "武汉经济技术开发区1R1地块10号楼",
+          "floor": "10",
+          "id": 313052913422423,
+          "price": 20046.0,
+          "roomName": "1003",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "10#",
+          "totalPrice": 2396499.3,
+          "unitName": "/"
+        },
+        {
+          "area": 141.96,
+          "buildId": 312230528299077,
+          "buildName": "武汉经济技术开发区1R1地块10号楼",
+          "floor": "11",
+          "id": 313052913422429,
+          "price": 21046.0,
+          "roomName": "1104",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "10#",
+          "totalPrice": 2987690.16,
+          "unitName": "/"
+        },
+        {
+          "area": 119.55,
+          "buildId": 312230528299077,
+          "buildName": "武汉经济技术开发区1R1地块10号楼",
+          "floor": "12",
+          "id": 313052913422432,
+          "price": 20096.0,
+          "roomName": "1202",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "10#",
+          "totalPrice": 2402476.8,
+          "unitName": "/"
+        },
+        {
+          "area": 119.55,
+          "buildId": 312230528299077,
+          "buildName": "武汉经济技术开发区1R1地块10号楼",
+          "floor": "19",
+          "id": 313052913426504,
+          "price": 20546.0,
+          "roomName": "1902",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "10#",
+          "totalPrice": 2456274.3,
+          "unitName": "/"
+        },
+        {
+          "area": 141.43,
+          "buildId": 312230528299082,
+          "buildName": "武汉经济技术开发区1R1地块15号楼",
+          "floor": "1-2",
+          "id": 313053021261894,
+          "price": 38116.0,
+          "roomName": "1-201",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "15#",
+          "totalPrice": 5390745.88,
+          "unitName": "1"
+        },
+        {
+          "area": 130.15,
+          "buildId": 312230528299095,
+          "buildName": "武汉经济技术开发区1R1地块3号楼",
+          "floor": "18",
+          "id": 313053270966395,
+          "price": 23098.0,
+          "roomName": "1804",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "3#",
+          "totalPrice": 3006204.7,
+          "unitName": "/"
+        }
+      ],
+      "soldNum": 7
+    },
+    {
+      "allRoomList": [],
+      "id": 329239308890205,
+      "name": "美的君兰半岛",
+      "roomList": [
+        {
+          "area": 115.9,
+          "buildId": 312482034335817,
+          "buildName": "武汉美的君兰半岛项目A-1、A-2地块（住宅、商业及地下室等）30",
+          "floor": "34",
+          "id": 313291814178892,
+          "price": 14944.0,
+          "roomName": "3401",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "30#",
+          "totalPrice": 1732009.6,
+          "unitName": "/"
+        },
+        {
+          "area": 113.1,
+          "buildId": 312483228438599,
+          "buildName": "武汉美的君兰半岛A-4项目18",
+          "floor": "4",
+          "id": 313304962719857,
+          "price": 14840.0,
+          "roomName": "406",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "18#",
+          "totalPrice": 1678404.0,
+          "unitName": "/"
+        }
+      ],
+      "soldNum": 2
+    },
+    {
+      "allRoomList": [],
+      "id": 329239308890210,
+      "name": "南山锦宸",
+      "roomList": [
+        {
+          "area": 88.65,
+          "buildId": 312479110279237,
+          "buildName": "居住、商业、社会福利项目（南山樾府）1",
+          "floor": "11",
+          "id": 313169780633678,
+          "price": 26123.0,
+          "roomName": "1104",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "1#",
+          "totalPrice": 2315803.95,
+          "unitName": "2"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 334501415100504,
+      "name": "美的·云筑",
+      "roomList": [
+        {
+          "area": 102.06,
+          "buildId": 312479085494342,
+          "buildName": "居住项目（028云筑）二期G-12",
+          "floor": "1",
+          "id": 313168759136328,
+          "price": 13250.0,
+          "roomName": "103",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "G-12#",
+          "totalPrice": 1352295.0,
+          "unitName": "/"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 334502133780578,
+      "name": "武汉诺德逸园",
+      "roomList": [
+        {
+          "area": 115.46,
+          "buildId": 312485066158163,
+          "buildName": "住宅项目（武汉诺德逸园）9",
+          "floor": "1",
+          "id": 313330042593350,
+          "price": 10002.0,
+          "roomName": "101",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "9#",
+          "totalPrice": 1154830.92,
+          "unitName": "1"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 334503154655331,
+      "name": "中国电建地产泷悦长安",
+      "roomList": [
+        {
+          "area": 141.37,
+          "buildId": 312477497831493,
+          "buildName": "新建居住项目（建（2021）-055号）1",
+          "floor": "34",
+          "id": 313060752199795,
+          "price": 17455.29,
+          "roomName": "3401",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "1#",
+          "totalPrice": 2467654.35,
+          "unitName": "/"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 334503202558026,
+      "name": "融创光谷壹号院",
+      "roomList": [
+        {
+          "area": 108.79,
+          "buildId": 312479060275277,
+          "buildName": "居住项目（武汉凯喜雅飞翔房地产开发有限公司)G1-6、G1-7、S6-1、S7-1",
+          "floor": "24",
+          "id": 313168457961548,
+          "price": 22711.0,
+          "roomName": "2402",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "G1-6，G1-7",
+          "totalPrice": 2470729.69,
+          "unitName": "/"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 334503227465830,
+      "name": "绿城华生桂语朝阳",
+      "roomList": [
+        {
+          "area": 108.08,
+          "buildId": 312482240106565,
+          "buildName": "新建居住、公园绿地项目（东风村城中村改造K3地块）1",
+          "floor": "13",
+          "id": 313293751726165,
+          "price": 18953.77,
+          "roomName": "1303",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "K3-1#",
+          "totalPrice": 2048523.46,
+          "unitName": "1"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 334503397294185,
+      "name": "联投花山郡别墅",
+      "roomList": [
+        {
+          "area": 109.96,
+          "buildId": 312488737402980,
+          "buildName": "花山郡二期3号楼",
+          "floor": "33",
+          "id": 313355565903993,
+          "price": 11000.0,
+          "roomName": "3301",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "3#",
+          "totalPrice": 1209560.0,
+          "unitName": "1"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 710681294225477,
+      "name": "武汉当代境MOMΛ",
+      "roomList": [
+        {
+          "area": 106.67,
+          "buildId": 312483284049993,
+          "buildName": "华夏世嘉动漫城（武汉当代境MOMΛ）配套住宅项目2",
+          "floor": "22",
+          "id": 313305923940428,
+          "price": 14151.0,
+          "roomName": "2204",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "2#",
+          "totalPrice": 1509487.17,
+          "unitName": "2"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 329239308886098,
+      "name": "和雅东方",
+      "roomList": [
+        {
+          "area": 103.76,
+          "buildId": 312230549057605,
+          "buildName": "新建居住、商业服务业设施项目（A地块）（二期）10",
+          "floor": "18",
+          "id": 313057583571044,
+          "price": 14819.0,
+          "roomName": "1803",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "10#",
+          "totalPrice": 1537619.44,
+          "unitName": "/"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 329239308890182,
+      "name": "龙湖清能天曜",
+      "roomList": [
+        {
+          "area": 114.56,
+          "buildId": 312230559686728,
+          "buildName": "新建居住、中小学、公园绿地、防护绿地、商业、商务、娱乐康体（复合公交枢纽）项目A地块A4",
+          "floor": "12",
+          "id": 313058602303579,
+          "price": 25043.83,
+          "roomName": "1203",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "A4#",
+          "totalPrice": 2869021.16,
+          "unitName": "1"
+        }
+      ],
+      "soldNum": 1
+    },
+    {
+      "allRoomList": [],
+      "id": 329239308890187,
+      "name": "武汉二十四城",
+      "roomList": [
+        {
+          "area": 140.12,
+          "buildId": 312480984195147,
+          "buildName": "“武汉二十四城（北区）”22#-30#楼、垃圾收集站、配套医院、医疗垃圾暂存间28",
+          "floor": "16",
+          "id": 313207641956446,
+          "price": 13841.0,
+          "roomName": "1601",
+          "roomTypeName": "",
+          "saleStatus": 1,
+          "shortBuildName": "28#",
+          "totalPrice": 1939400.92,
+          "unitName": "1"
+        }
+      ],
+      "soldNum": 1
+    }
+  ],
+  "time": "2026-11-21 00:00:00",
+  "totalPages": 1,
+  "totalSoldNum": 13
+}
