@@ -1,47 +1,12 @@
 {
-  "generatedAt": "2026-11-21 15:52:58",
+  "generatedAt": "2026-11-22 13:37:59",
   "projectId": 781406555324501,
   "status": "complete",
   "types": [
     {
       "area": 131.0,
-      "availableRoomNum": 3,
-      "buildList": [
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 2,
-          "buildId": 820501215252550,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "buildShortName": "7#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 820501203214405,
-          "evidenceName": "武房开预售[2026]181号",
-          "floorTotal": 17,
-          "oldUnitName": "1",
-          "roomTotal": 8,
-          "soldNum": 6,
-          "unitId": 0,
-          "unitName": "1"
-        },
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 1,
-          "buildId": 820501215252550,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "buildShortName": "7#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 820501203214405,
-          "evidenceName": "武房开预售[2026]181号",
-          "floorTotal": 17,
-          "oldUnitName": "2",
-          "roomTotal": 16,
-          "soldNum": 15,
-          "unitId": 0,
-          "unitName": "2"
-        }
-      ],
+      "availableRoomNum": 0,
+      "buildList": [],
       "effectImage": null,
       "id": 806510224130118,
       "img": "https://img.wufangtong.cn/e56323aff1c5464e80fdfcabbf7b3cdf.png",
@@ -69,23 +34,6 @@
           "soldNum": 28,
           "unitId": 0,
           "unitName": "1"
-        },
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 0,
-          "buildId": 820501215248458,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
-          "buildShortName": "5#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 852440726036741,
-          "evidenceName": "武房开预售[2026]303号",
-          "floorTotal": 17,
-          "oldUnitName": "1",
-          "roomTotal": 32,
-          "soldNum": 32,
-          "unitId": 0,
-          "unitName": "1"
         }
       ],
       "effectImage": null,
@@ -97,7 +45,7 @@
     },
     {
       "area": 127.0,
-      "availableRoomNum": 8,
+      "availableRoomNum": 6,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -115,23 +63,6 @@
           "soldNum": 8,
           "unitId": 0,
           "unitName": "1"
-        },
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 2,
-          "buildId": 820501215248458,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
-          "buildShortName": "5#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 852440726036741,
-          "evidenceName": "武房开预售[2026]303号",
-          "floorTotal": 17,
-          "oldUnitName": "1",
-          "roomTotal": 16,
-          "soldNum": 14,
-          "unitId": 0,
-          "unitName": "1"
         }
       ],
       "effectImage": null,
@@ -143,42 +74,8 @@
     },
     {
       "area": 143.0,
-      "availableRoomNum": 35,
+      "availableRoomNum": 33,
       "buildList": [
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 0,
-          "buildId": 820501215252550,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "buildShortName": "7#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 820501203214405,
-          "evidenceName": "武房开预售[2026]181号",
-          "floorTotal": 17,
-          "oldUnitName": "1",
-          "roomTotal": 8,
-          "soldNum": 8,
-          "unitId": 0,
-          "unitName": "1"
-        },
-        {
-          "abnormalRoomNum": 0,
-          "availableRoomNum": 2,
-          "buildId": 820501215252550,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "buildShortName": "7#",
-          "buildType": "小高层",
-          "buildTypeId": 3,
-          "evidenceId": 820501203214405,
-          "evidenceName": "武房开预售[2026]181号",
-          "floorTotal": 17,
-          "oldUnitName": "2",
-          "roomTotal": 16,
-          "soldNum": 14,
-          "unitId": 0,
-          "unitName": "2"
-        },
         {
           "abnormalRoomNum": 0,
           "availableRoomNum": 4,

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-21 15:53:00",
+  "generatedAt": "2026-11-22 13:38:00",
   "message": null,
   "projects": [
     {
@@ -611,7 +611,7 @@
       "projectAveragePrice": 15100.0,
       "projectDate": "2026-11-20",
       "projectId": 814651876638817,
-      "projectSoldCount": 76,
+      "projectSoldCount": 75,
       "soldCount": 3,
       "sourceSoldCount": 3
     },
@@ -685,6 +685,27 @@
         },
         {
           "averagePrice": null,
+          "buildName": "5号楼",
+          "buildType": null,
+          "currentAvailableCount": 2,
+          "currentSoldCount": 49,
+          "floorTotal": 17,
+          "officialBuildName": "5号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]303号"
+          ],
+          "roomCount": 51,
+          "rooms": [],
+          "shortBuildName": "5#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1"
+          ]
+        },
+        {
+          "averagePrice": null,
           "buildName": "6号楼",
           "buildType": null,
           "currentAvailableCount": 26,
@@ -702,6 +723,28 @@
           "totalPrice": 0,
           "units": [
             "1"
+          ]
+        },
+        {
+          "averagePrice": null,
+          "buildName": "7号楼",
+          "buildType": null,
+          "currentAvailableCount": 5,
+          "currentSoldCount": 47,
+          "floorTotal": 17,
+          "officialBuildName": "7号楼",
+          "presaleCertificates": [
+            "武房开预售[2026]181号"
+          ],
+          "roomCount": 52,
+          "rooms": [],
+          "shortBuildName": "7#",
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
+          "units": [
+            "1",
+            "2"
           ]
         },
         {
@@ -754,49 +797,6 @@
           "totalPrice": 0,
           "units": [
             "1"
-          ]
-        },
-        {
-          "averagePrice": null,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
-          "buildType": "小高层",
-          "currentAvailableCount": 2,
-          "currentSoldCount": 49,
-          "floorTotal": 17,
-          "officialBuildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）5",
-          "presaleCertificates": [
-            "武房开预售[2026]303号"
-          ],
-          "roomCount": 51,
-          "rooms": [],
-          "shortBuildName": "5#",
-          "soldCount": 0,
-          "totalArea": 0,
-          "totalPrice": 0,
-          "units": [
-            "1"
-          ]
-        },
-        {
-          "averagePrice": null,
-          "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "buildType": "小高层",
-          "currentAvailableCount": 5,
-          "currentSoldCount": 47,
-          "floorTotal": 17,
-          "officialBuildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）7",
-          "presaleCertificates": [
-            "武房开预售[2026]181号"
-          ],
-          "roomCount": 52,
-          "rooms": [],
-          "shortBuildName": "7#",
-          "soldCount": 0,
-          "totalArea": 0,
-          "totalPrice": 0,
-          "units": [
-            "1",
-            "2"
           ]
         },
         {
@@ -873,7 +873,7 @@
       "projectAveragePrice": 15500.0,
       "projectDate": "2026-11-20",
       "projectId": 781406555324501,
-      "projectSoldCount": 40,
+      "projectSoldCount": 39,
       "soldCount": 2,
       "sourceSoldCount": 2
     }
