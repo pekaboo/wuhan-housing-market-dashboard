@@ -1,8 +1,8 @@
 {
-  "count": 395,
-  "enrichmentUpdatedAt": "2026-11-22 15:39:39",
-  "generatedAt": "2026-11-22 15:39:40",
-  "listUpdatedAt": "2026-11-22 15:39:40",
+  "count": 393,
+  "enrichmentUpdatedAt": "2026-11-23 14:20:04",
+  "generatedAt": "2026-11-23 14:20:04",
+  "listUpdatedAt": "2026-11-23 14:20:04",
   "projects": [
     {
       "date": "2026-11-21",
@@ -2736,7 +2736,7 @@
       "douYinSoldChartImg": "https://img.wufangtong.cn/300e8b8c3faf4f029153650a6641a077.png",
       "id": 334502133780568,
       "name": "武汉长江中心",
-      "salePrice": 45000.0,
+      "salePrice": 49000.0,
       "soldChartImg": "https://img.wufangtong.cn/e626366f58484cdc8c43c744e62bcbd2.png",
       "soldNum": 1
     },
@@ -3539,24 +3539,6 @@
       "name": "中建福地星城",
       "salePrice": 17000.0,
       "soldChartImg": "https://img.wufangtong.cn/3d2940cdd41c438a96521bbee0968f24.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-10-16",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/398a50bd480240599afe0dfe6d1dfee1.png",
-      "id": 334501106548840,
-      "name": "万科保利理想城市",
-      "salePrice": 7500.0,
-      "soldChartImg": "https://img.wufangtong.cn/9acae08582e84636b64425238ebb29d1.png",
-      "soldNum": 0
-    },
-    {
-      "date": "2026-10-16",
-      "douYinSoldChartImg": "https://img.wufangtong.cn/c6863433bc304f809a226ab2427a1c61.png",
-      "id": 334503335022663,
-      "name": "华发中城中央公园",
-      "salePrice": 6300.0,
-      "soldChartImg": "https://img.wufangtong.cn/130a6fe1b49f42529bcd850f0607c2bf.png",
       "soldNum": 0
     }
   ]
