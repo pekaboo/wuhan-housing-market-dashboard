@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23 14:20:04",
+  "generatedAt": "2026-11-24 16:54:04",
   "projectId": 781406555324501,
   "status": "complete",
   "types": [
@@ -74,7 +74,7 @@
     },
     {
       "area": 143.0,
-      "availableRoomNum": 33,
+      "availableRoomNum": 31,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -112,7 +112,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 20,
+          "availableRoomNum": 18,
           "buildId": 820501215252552,
           "buildName": "新建居住、防护绿地项目（光霞村K6地块）（变更）9",
           "buildShortName": "9#",
@@ -123,7 +123,7 @@
           "floorTotal": 15,
           "oldUnitName": "1",
           "roomTotal": 28,
-          "soldNum": 8,
+          "soldNum": 10,
           "unitId": 0,
           "unitName": "1"
         }
