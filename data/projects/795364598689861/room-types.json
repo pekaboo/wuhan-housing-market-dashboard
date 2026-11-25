@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24 18:35:01",
+  "generatedAt": "2026-11-25 15:30:33",
   "projectId": 795364598689861,
   "status": "complete",
   "types": [
@@ -34,11 +34,11 @@
     },
     {
       "area": 107.0,
-      "availableRoomNum": 33,
+      "availableRoomNum": 31,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 4,
+          "availableRoomNum": 3,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildShortName": "1#",
@@ -49,13 +49,13 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 31,
-          "soldNum": 27,
+          "soldNum": 28,
           "unitId": 0,
           "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 28,
+          "availableRoomNum": 27,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildShortName": "1#",
@@ -66,7 +66,7 @@
           "floorTotal": 32,
           "oldUnitName": "2",
           "roomTotal": 31,
-          "soldNum": 3,
+          "soldNum": 4,
           "unitId": 0,
           "unitName": "2"
         },
@@ -114,11 +114,11 @@
     },
     {
       "area": 97.0,
-      "availableRoomNum": 30,
+      "availableRoomNum": 25,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 14,
+          "availableRoomNum": 10,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildShortName": "1#",
@@ -129,13 +129,13 @@
           "floorTotal": 32,
           "oldUnitName": "1",
           "roomTotal": 31,
-          "soldNum": 17,
+          "soldNum": 21,
           "unitId": 0,
           "unitName": "1"
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 12,
+          "availableRoomNum": 11,
           "buildId": 312481879474255,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildShortName": "1#",
@@ -146,7 +146,7 @@
           "floorTotal": 32,
           "oldUnitName": "2",
           "roomTotal": 31,
-          "soldNum": 19,
+          "soldNum": 20,
           "unitId": 0,
           "unitName": "2"
         },
