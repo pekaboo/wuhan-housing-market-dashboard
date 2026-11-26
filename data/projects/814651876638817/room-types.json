@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25 17:25:35",
+  "generatedAt": "2026-11-26 15:19:41",
   "projectId": 814651876638817,
   "status": "complete",
   "types": [
@@ -68,7 +68,7 @@
     },
     {
       "area": 127.0,
-      "availableRoomNum": 12,
+      "availableRoomNum": 11,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -89,7 +89,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 10,
+          "availableRoomNum": 9,
           "buildId": 820234721681485,
           "buildName": "新建居住项目（陶家岭公交停保场地块）5",
           "buildShortName": "5#",
@@ -100,7 +100,7 @@
           "floorTotal": 25,
           "oldUnitName": "2",
           "roomTotal": 24,
-          "soldNum": 14,
+          "soldNum": 15,
           "unitId": 0,
           "unitName": "2"
         }
@@ -114,11 +114,11 @@
     },
     {
       "area": 123.0,
-      "availableRoomNum": 36,
+      "availableRoomNum": 35,
       "buildList": [
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 22,
+          "availableRoomNum": 21,
           "buildId": 820234721681478,
           "buildName": "新建居住项目（陶家岭公交停保场地块）10",
           "buildShortName": "10#",
@@ -129,7 +129,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 48,
-          "soldNum": 26,
+          "soldNum": 27,
           "unitId": 0,
           "unitName": "1"
         },
@@ -240,7 +240,7 @@
     },
     {
       "area": 101.0,
-      "availableRoomNum": 58,
+      "availableRoomNum": 57,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -278,7 +278,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 25,
+          "availableRoomNum": 24,
           "buildId": 820234721685576,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildShortName": "9#",
@@ -289,7 +289,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 50,
-          "soldNum": 25,
+          "soldNum": 26,
           "unitId": 0,
           "unitName": "1"
         }
