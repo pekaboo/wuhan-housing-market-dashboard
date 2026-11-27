@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26 17:02:42",
+  "generatedAt": "2026-11-27 15:15:26",
   "projectId": 814651876638817,
   "status": "complete",
   "types": [
@@ -240,7 +240,7 @@
     },
     {
       "area": 101.0,
-      "availableRoomNum": 57,
+      "availableRoomNum": 55,
       "buildList": [
         {
           "abnormalRoomNum": 0,
@@ -278,7 +278,7 @@
         },
         {
           "abnormalRoomNum": 0,
-          "availableRoomNum": 24,
+          "availableRoomNum": 22,
           "buildId": 820234721685576,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildShortName": "9#",
@@ -289,7 +289,7 @@
           "floorTotal": 25,
           "oldUnitName": "1",
           "roomTotal": 50,
-          "soldNum": 26,
+          "soldNum": 28,
           "unitId": 0,
           "unitName": "1"
         }
