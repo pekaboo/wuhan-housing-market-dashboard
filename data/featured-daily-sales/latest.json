@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-27 15:15:34",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-27 17:18:54",
   "message": null,
   "projects": [
     {
@@ -142,7 +142,7 @@
     {
       "buildings": [
         {
-          "averagePrice": 12585.481372870016,
+          "averagePrice": null,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildType": "高层",
           "currentAvailableCount": 51,
@@ -153,75 +153,18 @@
             "武房开预售[2026]243号"
           ],
           "roomCount": 124,
-          "rooms": [
-            {
-              "area": 97.31,
-              "floor": "19",
-              "price": 12509.0,
-              "roomName": "1901",
-              "totalPrice": 1217250.79,
-              "unitName": "1"
-            },
-            {
-              "area": 97.31,
-              "floor": "20",
-              "price": 12587.0,
-              "roomName": "2001",
-              "totalPrice": 1224840.97,
-              "unitName": "1"
-            },
-            {
-              "area": 107.96,
-              "floor": "22",
-              "price": 13492.0,
-              "roomName": "2202",
-              "totalPrice": 1456596.32,
-              "unitName": "1"
-            },
-            {
-              "area": 97.31,
-              "floor": "28",
-              "price": 12142.0,
-              "roomName": "2801",
-              "totalPrice": 1181538.02,
-              "unitName": "1"
-            },
-            {
-              "area": 97.31,
-              "floor": "30",
-              "price": 11942.0,
-              "roomName": "3001",
-              "totalPrice": 1162076.02,
-              "unitName": "1"
-            },
-            {
-              "area": 107.96,
-              "floor": "8",
-              "price": 13126.0,
-              "roomName": "801",
-              "totalPrice": 1417082.96,
-              "unitName": "2"
-            },
-            {
-              "area": 97.31,
-              "floor": "28",
-              "price": 12142.0,
-              "roomName": "2802",
-              "totalPrice": 1181538.02,
-              "unitName": "2"
-            }
-          ],
+          "rooms": [],
           "shortBuildName": "1#",
-          "soldCount": 7,
-          "totalArea": 702.47,
-          "totalPrice": 8840923.1,
+          "soldCount": 0,
+          "totalArea": 0,
+          "totalPrice": 0,
           "units": [
             "1",
             "2"
           ]
         },
         {
-          "averagePrice": null,
+          "averagePrice": 12443.0,
           "buildName": "武汉经开23R2项目（二期）变更2",
           "buildType": "高层",
           "currentAvailableCount": 4,
@@ -232,11 +175,20 @@
             "武房开预售[2026]177号"
           ],
           "roomCount": 124,
-          "rooms": [],
+          "rooms": [
+            {
+              "area": 97.22,
+              "floor": "21",
+              "price": 12443.0,
+              "roomName": "2101",
+              "totalPrice": 1209708.46,
+              "unitName": "2"
+            }
+          ],
           "shortBuildName": "2#",
-          "soldCount": 0,
-          "totalArea": 0,
-          "totalPrice": 0,
+          "soldCount": 1,
+          "totalArea": 97.22,
+          "totalPrice": 1209708.46,
           "units": [
             "1",
             "2"
@@ -332,8 +284,8 @@
       "projectDate": "2026-11-26",
       "projectId": 795364598689861,
       "projectSoldCount": 48,
-      "soldCount": 7,
-      "sourceSoldCount": 7
+      "soldCount": 1,
+      "sourceSoldCount": 1
     },
     {
       "buildings": [
@@ -380,7 +332,7 @@
           ]
         },
         {
-          "averagePrice": 18774.720029239765,
+          "averagePrice": 18200.0,
           "buildName": "新建居住项目（陶家岭公交停保场地块）10",
           "buildType": "高层",
           "currentAvailableCount": 23,
@@ -394,17 +346,17 @@
           "rooms": [
             {
               "area": 123.12,
-              "floor": "16",
-              "price": 18774.72,
-              "roomName": "1601",
-              "totalPrice": 2311543.53,
+              "floor": "18",
+              "price": 18200.0,
+              "roomName": "1801",
+              "totalPrice": 2240784.0,
               "unitName": "1"
             }
           ],
           "shortBuildName": "10#",
           "soldCount": 1,
           "totalArea": 123.12,
-          "totalPrice": 2311543.53,
+          "totalPrice": 2240784.0,
           "units": [
             "1"
           ]
@@ -453,7 +405,7 @@
           ]
         },
         {
-          "averagePrice": null,
+          "averagePrice": 15238.640022137886,
           "buildName": "新建居住项目（陶家岭公交停保场地块）5",
           "buildType": "高层",
           "currentAvailableCount": 29,
@@ -464,11 +416,20 @@
             "武房开预售[2026]203号"
           ],
           "roomCount": 100,
-          "rooms": [],
+          "rooms": [
+            {
+              "area": 126.48,
+              "floor": "2",
+              "price": 15238.64,
+              "roomName": "201",
+              "totalPrice": 1927383.19,
+              "unitName": "2"
+            }
+          ],
           "shortBuildName": "5#",
-          "soldCount": 0,
-          "totalArea": 0,
-          "totalPrice": 0,
+          "soldCount": 1,
+          "totalArea": 126.48,
+          "totalPrice": 1927383.19,
           "units": [
             "1",
             "2"
@@ -496,7 +457,7 @@
           ]
         },
         {
-          "averagePrice": 16476.745016942397,
+          "averagePrice": 16395.350009966114,
           "buildName": "新建居住项目（陶家岭公交停保场地块）9",
           "buildType": "高层",
           "currentAvailableCount": 41,
@@ -510,25 +471,17 @@
           "rooms": [
             {
               "area": 100.34,
-              "floor": "11",
-              "price": 16534.88,
-              "roomName": "1102",
-              "totalPrice": 1659109.86,
-              "unitName": "1"
-            },
-            {
-              "area": 100.34,
-              "floor": "11",
-              "price": 16418.61,
-              "roomName": "1103",
-              "totalPrice": 1647443.33,
+              "floor": "9",
+              "price": 16395.35,
+              "roomName": "902",
+              "totalPrice": 1645109.42,
               "unitName": "1"
             }
           ],
           "shortBuildName": "9#",
-          "soldCount": 2,
-          "totalArea": 200.68,
-          "totalPrice": 3306553.1900000004,
+          "soldCount": 1,
+          "totalArea": 100.34,
+          "totalPrice": 1645109.42,
           "units": [
             "1"
           ]
@@ -805,6 +758,6 @@
     }
   ],
   "status": "ok",
-  "totalSold": 10,
+  "totalSold": 4,
   "version": 1
 }
