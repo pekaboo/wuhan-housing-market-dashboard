@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generatedAt": "2026-11-27 17:18:54",
+  "generatedAt": "2026-11-28 14:48:05",
   "message": null,
   "projects": [
     {
@@ -145,8 +145,8 @@
           "averagePrice": null,
           "buildName": "武汉经开23R2项目（二期）变更1",
           "buildType": "高层",
-          "currentAvailableCount": 51,
-          "currentSoldCount": 73,
+          "currentAvailableCount": 50,
+          "currentSoldCount": 74,
           "floorTotal": 32,
           "officialBuildName": "武汉经开23R2项目（二期）变更1",
           "presaleCertificates": [
@@ -242,8 +242,8 @@
           "averagePrice": null,
           "buildName": "武汉经开23R2项目（二期）变更5",
           "buildType": "小高层",
-          "currentAvailableCount": 10,
-          "currentSoldCount": 74,
+          "currentAvailableCount": 9,
+          "currentSoldCount": 75,
           "floorTotal": 15,
           "officialBuildName": "武汉经开23R2项目（二期）变更5",
           "presaleCertificates": [
@@ -266,14 +266,14 @@
       "district": "武汉经开",
       "inventory": {
         "abnormalCount": 0,
-        "availableAveragePrice": 13527.57178928769,
-        "availableCount": 178,
+        "availableAveragePrice": 13531.14160779081,
+        "availableCount": 176,
         "certificateCount": 5,
         "completionTime": "2028-05-31",
         "deliveryTime": "2028-05-31",
         "roomCount": 488,
         "roomTypeCount": 4,
-        "soldCount": 310
+        "soldCount": 312
       },
       "location": {
         "kind": "项目/地块线索",
@@ -281,9 +281,9 @@
       },
       "name": "新希望·长粼府",
       "projectAveragePrice": 13000.0,
-      "projectDate": "2026-11-26",
+      "projectDate": "2026-11-28",
       "projectId": 795364598689861,
-      "projectSoldCount": 48,
+      "projectSoldCount": 46,
       "soldCount": 1,
       "sourceSoldCount": 1
     },
@@ -508,7 +508,7 @@
       "projectAveragePrice": 15100.0,
       "projectDate": "2026-11-27",
       "projectId": 814651876638817,
-      "projectSoldCount": 83,
+      "projectSoldCount": 79,
       "soldCount": 3,
       "sourceSoldCount": 3
     },
@@ -752,7 +752,7 @@
       "projectAveragePrice": 15500.0,
       "projectDate": "2026-11-27",
       "projectId": 781406555324501,
-      "projectSoldCount": 20,
+      "projectSoldCount": 16,
       "soldCount": 0,
       "sourceSoldCount": null
     }
